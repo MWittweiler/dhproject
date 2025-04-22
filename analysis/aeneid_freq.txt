@@ -1,0 +1,15 @@
+Aeneas: 241
+Turnus: 127
+Iuppiter: 81
+Ascanius: 70
+Iuno: 56
+Mars: 49
+Apollo: 48
+Anchises: 47
+Dido: 37
+Venus: 32
+Achates: 20
+Minverva: 20
+Camilla: 19
+Mnestheus: 17
+Lavinia: 13

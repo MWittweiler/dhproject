@@ -1,0 +1,14 @@
+Hannibal: 194
+Mars: 156
+Fabius: 62
+Iuno: 38
+Scipio: 38
+Apollo: 35
+Varro: 28
+Venus: 26
+Flaminius: 24
+Hasdrubal: 21
+Iuppiter: 21
+Marcellus: 21
+Mago: 20
+Regulus: 10

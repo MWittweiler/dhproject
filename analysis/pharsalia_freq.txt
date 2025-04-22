@@ -1,0 +1,12 @@
+Pompeius: 233
+Caesar: 231
+Mars: 58
+Apollo: 41
+Cato: 36
+Iuppiter: 25
+Curio: 15
+Cornelia: 15
+Venus: 11
+Cleopatra: 9
+Scaeva: 8
+Iuno: 1

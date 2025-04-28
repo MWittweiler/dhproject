@@ -1,0 +1,2564 @@
+{
+    "Pelias": {
+        "name": "Pelias",
+        "occurrences": [
+            {
+                "sentence": "Haemoniam primis Pelias frenabat ab annis, / iam gravis et longus populis metus: illius amnes / Ionium quicumque petunt, ille Othryn et Haemum / atque imum felix versabat vomere Olympum.\n",
+                "number": "<Val. Fl. 1.22>",
+                "sentiments": "(\"fear\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "moliri hunc puppem iubet et demittere ferro / robora, Peliacas et iam comes exit in umbras.\n",
+                "number": "<Val. Fl. 1.94>",
+                "sentiments": "(\"agitation\",)",
+                "book_number": "1"
+            },
+            {
+                "sentence": "invisae Pelias freta tuta carinae / optet et exoret nostris cum matribus undas.'\n",
+                "number": "<Val. Fl. 1.154>",
+                "sentiments": "(\"anger\", \"disgust\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "accipit augurium Aesonides laetusque superbi / tecta petit Peliae.\n",
+                "number": "<Val. Fl. 1.161>",
+                "sentiments": "(\"joy\",)",
+                "book_number": "1"
+            },
+            {
+                "sentence": "ne Peliae te vota trahant: ille aspera iussa / repperit et Colchos in me luctumque meorum: /\n",
+                "number": "<Val. Fl. 1.200>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "nec Peleus fretus soceris et coniuge diva / defuit, ac prora splendet tua cuspis ab alta, / Aeacide: tantum haec aliis excelsior hastis, / quantum Peliacas in vertice vicerat ornos.\n",
+                "number": "<Val. Fl. 1.403>",
+                "sentiments": "(\"admiration\",)",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Saevit atrox Pelias inimicaque vertice ab alto / vela videt nee qua se ardens effundere possit.\n",
+                "number": "<Val. Fl. 1.700>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "tum porta quanta sinistra / poena docet maneat Pelian, quo limine monstrat.\n",
+                "number": "<Val. Fl. 1.847>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Interea scelerum luctusque ignarus Iason / alta secat; neque enim patrios cognoscere casus / Iuno sinit, mediis ardens ne flectat ab undis / ac temere in Pelian et adhuc obstantia regis / fata ruat placitosque deis ne deserat actus.\n",
+                "number": "<Val. Fl. 2.1>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "scilicet haec illo iuvenem populosque manebant / tempore, Peliacis caderet cum montibus arbor; / hoc volucrumque minae praesagaque fulmina longo / acta mari tulerant.\n",
+                "number": "<Val. Fl. 3.351>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "'o terras fama venture per omnes, / quem sociis ducibusque deis atque arte benigna / Pallados ipse ultro Pelias ad sidera tollit / demens, dum profugi non sperat vellera Phrixi, / fata locosque tibi, possum quas reddere grates, / expediam rerumque vias finemque docebo.\n",
+                "number": "<Val. Fl. 4.552>",
+                "sentiments": "(\"admiration\",)",
+                "book_number": "4"
+            },
+            {
+                "sentence": "sceptra tui toto Pelias sub lumine Phoebi / maxima sorte tenens totque ille gravantia clivos / oppida, tot vigili pulcherrima flumina cornu, / ille meum imperils urget caput, ille labores / dat varios, suus ut magnum rex spargit ab Argis / Alciden, Sthenelo ipse satus.\n",
+                "number": "<Val. Fl. 5.483>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "tibi gratia nostri / sit, precor, haec meritique locus, quod iussa recepi / teque alium, quam quem Pelias speratque cupitque, / promisi et meliora tuae mihi foedera dextrae.\n",
+                "number": "<Val. Fl. 5.491>",
+                "sentiments": "(\"love\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "quis regum Pelias, quis Thessalus aut quae / Graecia, quodnam hominum cerno genus, aut ubi cautes / Cyaneae?\n",
+                "number": "<Val. Fl. 7.40>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "alium hic Pelian, alia aequora cerno.\n",
+                "number": "<Val. Fl. 7.92>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "unum oro, seu me illa suis seges obruet hastis, / hauriet adverso seu crastinus ignis hiatu, / nuntius hinc saevas Peliae mittatur ad aures, / hic periisse viros, et me, si vestra fuisset / ulla fides, reducem patriae potuisse referri'.\n",
+                "number": "<Val. Fl. 7.96>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "videt externo se prodere patrem / dura viro, famam scelerum iamque ipsa suorum / prospicit et questu superos questuque fatigat / Tartara; pulsat humum manibusque immurmurat uncis / noctis eram Ditemque ciens, succurrere tandem / morte velint ipsumque simul demittere leto, / quem propter furit; absentem saevissima poscit / nunc Pelian, tanta iuvenem qui perderet ira; / saepe suas misero promittere destinat artes / denegat atque una potius decernit in hora / ac neque tam turpi cessuram semper amori / proclamat neque opem ignoto viresque daturam, / atque toro proiecta manet, cum visa vocari / rursus et impulso sonuerunt cardine postes.\n",
+                "number": "<Val. Fl. 7.310>",
+                "sentiments": "(\"sadness\", \"anger\", \"agitation\", \"love\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "sed fatis sum victa tuis; cape munera supplex / non mea; teque iterum Pelias si perdere quaeret / inque alios casus, alias si mittet ad urbes, / heu formae ne crede tuae.'\n",
+                "number": "<Val. Fl. 7.447>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Albano fuit haec promissa tyranno, / non tibi; nil tecum miseri pepigere parentes, / Aesonide; non hoc Pelias evadere furto / te iubet aut ullas Colchis abducere natas.\n",
+                "number": "<Val. Fl. 8.153>",
+                "sentiments": "(\"anger\", \"disgust\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "liceat cognoscere tandem, / si modo Peliacae non sum captiva carinae / nec dominos decepta sequor consultaque vestra / fas audire mihi.\n",
+                "number": "<Val. Fl. 8.418>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "si Pagasas vel Peliacas hinc denique nubes / cerneret et tenui Tempe lucentia fumo, / hoc visu contenta mori.\n",
+                "number": "<Val. Fl. 8.454>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Hercules": {
+        "name": "Hercules",
+        "occurrences": [
+            {
+                "sentence": "sed neque bella videt Graias neque monstra per urbes / ulla: Cleonaeo iam tempora clusus hiatu / Alcides; olim Lernae defensus ab angue / Areas, et ambobus iam cornua fracta iuvencis.\n",
+                "number": "<Val. Fl. 1.33>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "1"
+            },
+            {
+                "sentence": "nune quoque nec socium nostrae columenve carinae / esse velim, Herculeis nec me umquam fidere fas sit / auxiliis comiti et tantum debere superbo.'\n",
+                "number": "<Val. Fl. 1.117>",
+                "sentiments": "(\"disgust\", \"sadness\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "ilium nec valido spumantia pocula Baccho / sollicitant veteri nec conspicienda metallo / signa tenent; stupet in ducibus magnumque sonantes / haurit et Herculeo fert comminus ora leoni.\n",
+                "number": "<Val. Fl. 1.260>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "hinc laevom Telamon pelagus tenet, altior inde / occupat Alcides aliud mare, cetera pubes / dividitur: celer Asterion, quem matre cadentem / Piresius gemino fovit pater amne Cometes, / segnior Apidani vires ubi sentit Enipeus.\n",
+                "number": "<Val. Fl. 1.353>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "quin etiam Herculeo consurgit ab ordine Tydeus / Nelidesque Periclymenus, quem parva Methone / †felevis Elis equis et fluctibus obvius Aulon / caestibus adversos viderunt frangere vultus. — / Tu quoque Phrixeos remo, Poeantie, Colchos / bis Lemnon visure petis, nunc cuspide patris / inclitus, Herculeas olim moture sagittas.\n",
+                "number": "<Val. Fl. 1.387>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "at tibi collectas solvit iam fibula vestes / ostenditque umeros fortes spatiumque superbi / pectoris Herculeis aequum, Meleagre, lacertis.\n",
+                "number": "<Val. Fl. 1.433>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "tune oculos Aegaea refert ad caerula robur / Herculeum Ledaeque tuens genus atque ita fatur: /\n",
+                "number": "<Val. Fl. 1.560>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Alcides Telamonque comes dum litora blando / anfractu sinuosa legunt, vox accidit aures / flebile succedens, cum fracta remurmurat unda.\n",
+                "number": "<Val. Fl. 2.451>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "constitit Alcides, visuque enisus in alta / rupe truces manicas defectaque virginis ora / cernit et ad primos turgentia lumina flexus; / exanimum veluti multa tamen arte coactum / maeret ebur, Pariusve notas et nomina sumit / cum lapis aut liquidi referunt miranda colores.\n",
+                "number": "<Val. Fl. 2.462>",
+                "sentiments": "(\"sadness\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "occupat Alcides arcum totaque pharetrae / nube premit.\n",
+                "number": "<Val. Fl. 2.521>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "stat mediis elatus aquis recipitque ruentem / Alcides saxoque prior surgentia colla / obruit; hinc vastos nodosi roboris ictus / congeminat, fluctus done defertur in imos / iam totis resoluta vadis; Idaeaque mater / et chorus et summis ulularunt collibus Amnes.\n",
+                "number": "<Val. Fl. 2.532>",
+                "sentiments": "(\"admiration\", \"agitation\", \"sadness\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "nec minus in scopulos crudique cacumina saxi / emicat Alcides vinclisque tenentibus aufert / virgineas de rupe manus aptatque superbis / arma umeris.\n",
+                "number": "<Val. Fl. 2.542>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "dixerat haec tacitusque dolos dirumque volutat / corde nefas, clausum ut thalamis somnoque gravatum / immolet et rapta ludat responsa pharetra; / namque bis Herculeis deberi Pergama telis / audierat.\n",
+                "number": "<Val. Fl. 2.566>",
+                "sentiments": "(\"anger\", \"agitation\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "sequitur per moenia demens / ille deam et fatis extrema in proelia tendit, / qualis in Alciden et Thesea Rhoetus iniqui / nube meri geminam Pholoen maioraque cernens / astra ruit, qualisve redit venatibus actis / lustra pater Triviamque canens umeroque Learchum / advehit, at miserae declinant lumina Thebae.\n",
+                "number": "<Val. Fl. 3.63>",
+                "sentiments": "(\"agitation\", \"sadness\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "levis ante pedes subsederat †Hidmon; / occupat os barbamque viri clavamque superne / intonat 'occumbes' et 'nunc' ait 'Herculis armis, / donum ingens semperque tuis mirabile fatum.'\n",
+                "number": "<Val. Fl. 3.166>",
+                "sentiments": "(\"anger\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "laetus et ipse / Alcides 'quisnam hos vocat in certamina fluctus?'\n",
+                "number": "<Val. Fl. 3.473>",
+                "sentiments": "(\"joy\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "e quibus Herculeo Dryope percussa fragore, / cum fugerent iam tela ferae, processerat ultra / turbatum visura nemus, fontemque petebat / rursus et attonitos referebat ab Hercule vultus.\n",
+                "number": "<Val. Fl. 3.528>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "credit Hylas praedaeque ferox ardore propinquae / insequitur; simul Alcides hortatibus urget / prospiciens; iamque ex oculis aufertur uterque, / cum puerum instantem quadripes fessaque minantem / tela manu procul ad nitidi spiracula fontis / ducit et intactas levis ipse superfugit undas.\n",
+                "number": "<Val. Fl. 3.548>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ceu pectora nautis / congelat hiberni vultus Iovis agricolisve, / cum coit umbra minax, comitis sic adficit error / Alciden saevaeque monet meminisse novercae.\n",
+                "number": "<Val. Fl. 3.576>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "pavet omnis conscia late / silva, pavent montes, luctu succensus acerbo / quid struat Alcides tantaque quid apparet ira.\n",
+                "number": "<Val. Fl. 3.583>",
+                "sentiments": "(\"fear\", \"sadness\", \"anger\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "At sociis immota fides austrisque secundis / certa: morae est nec parvus Hylas (quamquam omnibus aeque / grata rudimenta), Herculeo sub nomine pendent.\n",
+                "number": "<Val. Fl. 3.597>",
+                "sentiments": "(\"admiration\", \"neutral\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "at plus ingenti Telamon iam fluctuat ira / cum fremitu, saevisque serens modo iurgia dictis / insequitur magnoque implorat numina questu, / idem orans prensatque viros demissaque supplex / haeret ad ora ducis: nil se super Hercule fari / sed socio quocumque, gemens quamquam aspera fama / iam loca iamque feras per barbara litora gentes, / non alium contra Alciden, non pectora tanta / posse dari.\n",
+                "number": "<Val. Fl. 3.636>",
+                "sentiments": "(\"anger\", \"sadness\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "'non Herculis' inquit 'adempti, / sed tuus in seros haec nostra silentia questus / traxit honor, dum iura dares, dum tempora fandi.\n",
+                "number": "<Val. Fl. 3.648>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "tu comitem Alciden ad Phasidis amplius arva / adfore, tu socias ultra tibi rere pharetras?\n",
+                "number": "<Val. Fl. 3.661>",
+                "sentiments": "(\"agitation\", \"disbelief\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "scilicet in solis profugi stetit Herculis armis / nostra salus; nempe ora aeque mortalia cuncti / ecce gerunt; ibant aequo nempe ordine remi.\n",
+                "number": "<Val. Fl. 3.672>",
+                "sentiments": "(\"agitation\", \"neutral\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "non hi tum flatus, non ista superbia dictis, / litore cum patrio, iam vela petentibus austris, / cunctus ad Alciden versus favor: ipse iuvaret, / ipse ducis curas meritosque subiret honores.\n",
+                "number": "<Val. Fl. 3.698>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "nulla fides, nulli super Hercule fletus?\n",
+                "number": "<Val. Fl. 3.703>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "saepe metu, saepe in tenui discrimine rerum / Herculeas iam serus opes spretique vocabis / arma viri, nec nos tumida haec tum dicta iuvabunt.'\n",
+                "number": "<Val. Fl. 3.711>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "omnis adhuc vocat Alciden fugiente carina, / omnis Hylan, medio pereuntia nomina ponto.\n",
+                "number": "<Val. Fl. 3.723>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "'in quem alium Alciden, in quae iam tempora differs / Caucaseum, rex magne, senem?\n",
+                "number": "<Val. Fl. 4.62>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "'i, Phrygas Alcides et Troiae differat arma; / nunc' ait 'eripiat dirae Titana volucri.'\n",
+                "number": "<Val. Fl. 4.78>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "Iam Minyae mediis clarae per sidera noctis / fluctibus intulerant placido cava lintea cursu / multaque deserto memores super Hercule volvunt.\n",
+                "number": "<Val. Fl. 4.82>",
+                "sentiments": "(\"sadness\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "tunc fessas posuere manus, tunc arida anheli / pectora, discussa quales formidine Averni / Alcides Theseusque comes pallentia iungunt / oscula, vix primis amplexi luminis oris.\n",
+                "number": "<Val. Fl. 4.698>",
+                "sentiments": "(\"sadness\", \"fear\", \"love\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "qualem Mavortia vidit Amazon / cumque suis comitem Alcides ut condidit armis, / talis ab aequorei consurgens aggere busti / emicuit; fulsere undae, sol magnus ut orbem / tolleret aut nubem quateret polus.\n",
+                "number": "<Val. Fl. 5.89>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Addidit hic casu comites Fortuna benigno / Autolycum Phlogiumque et Deileonta, secutos / Herculis arma viros; vagus hos ibi fixerat error.\n",
+                "number": "<Val. Fl. 5.113>",
+                "sentiments": "(\"admiration\",)",
+                "book_number": "5"
+            },
+            {
+                "sentence": "ipse autem comitum conversus ad ora novorum / 'vos mihi nunc pugnas' ait 'et victricia' ductor / 'Herculis arma mei vestrasque in litore Martis / interea memorate manus.'\n",
+                "number": "<Val. Fl. 5.128>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "sic fatus et aegro / corde silens audit cursus bellique labores / virginei, exciderit frenis quae prima remissis, / semianimem patrius quam sanguine vexerit amnis / quae pelta latus atque umeros nudata pharetris / fugerit Herculeae mox vulnere prensa sagittae, / utque securigeras stimulaverit Ira catervas / fleturusque pater, quantus duce terror in ipsa, / qui furor, insignis quo balteus arserit auro.\n",
+                "number": "<Val. Fl. 5.131>",
+                "sentiments": "(\"sadness\", \"agitation\", \"fear\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "ille etiam Alciden Titania fata morantem / attulerat tum forte dies; iamque aspera nisu / undique convellens veteris cum strage pruinae / vincula prensa manu saxis abduxerat imis / arduus et laevo gravior pede; consonat ingens / Caucasus, et summo pariter cum monte secutae / incubuere trabes, abductaque flumina ponto.\n",
+                "number": "<Val. Fl. 5.156>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "contra autem ignari (quis enim nunc credat in illis / montibus Alciden dimissave vota retemptet?) / pergere iter socii; tantum mirantur ab alto / litora discussa sterni nive ruptaque saxa / et simul ingentem moribundae desuper umbram / alitis atque atris rorantes imbribus auras.\n",
+                "number": "<Val. Fl. 5.171>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "sceptra tui toto Pelias sub lumine Phoebi / maxima sorte tenens totque ille gravantia clivos / oppida, tot vigili pulcherrima flumina cornu, / ille meum imperils urget caput, ille labores / dat varios, suus ut magnum rex spargit ab Argis / Alciden, Sthenelo ipse satus.\n",
+                "number": "<Val. Fl. 5.483>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "interea laeto patitur convivia cultu / et iuxta Aesoniden magno cratere lacessit / nunc sibi monstrantem natos Iovis oraque iuxta / Aeacidum, nunc ingentis Calydonos alumnos; / audit et Alciden infando errore relictum / defletosque duces terraeque marisque labores.\n",
+                "number": "<Val. Fl. 5.570>",
+                "sentiments": "(\"joy\", \"admiration\", \"sadness\")",
+                "book_number": "5"
+            }
+        ]
+    },
+    "Aeetes": {
+        "name": "Aeetes",
+        "occurrences": [
+            {
+                "sentence": "hunc ferus Aeetes, Scythiam Phasimque rigentem / qui colit (heu magni Solis pudor), hospita vina / / nil nostri divumque memor.\n",
+                "number": "<Val. Fl. 1.43>",
+                "sentiments": "(\"shame\", \"sadness\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Phasin et Aeeten Scythicique pericula ponti / redde' ait 'Aesonide: me tecum solus in aequor / rerum traxit amor, dum spes mihi sistere montes / Cyaneos vigilemque alium spoliare draconem.\n",
+                "number": "<Val. Fl. 2.379>",
+                "sentiments": "(\"love\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Aeetes contra thalamis et virgine pacta / conciliate reges Scythicos, primusque coacta / advehit Albana Styrus gener agmina porta.\n",
+                "number": "<Val. Fl. 3.494>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "hinc Perses, illinc non viribus aequis / apparat Aeetes aciem.\n",
+                "number": "<Val. Fl. 5.284>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "nec pelagi nos mille viae nec fama fefellit / Soligenam Aeeten media regnare sub arcto.\n",
+                "number": "<Val. Fl. 5.316>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "5"
+            },
+            {
+                "sentence": "'quem petis Aeeten, genitor meus, ipsaque iuxta / moenia, si vivos possis discernere calles: /\n",
+                "number": "<Val. Fl. 5.393>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "'nec ferus Aeetes, ut fama, nec aurea nobis / terga negat; bello interea sed pressus iniquo / auxilium petit; armatos dux protinus omnes / adcelerare iubet; longo nam tuta recessu / puppis et adposita fluvius defenditur urbe.'\n",
+                "number": "<Val. Fl. 5.553>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "respicit Aeetes atque hunc quoque nomine reddit: /\n",
+                "number": "<Val. Fl. 5.588>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "5"
+            },
+            {
+                "sentence": "contra autem Aeetes 'non frustra magna superbo / dicta volant' ait, 'et vocem paria arma secuntur, / nec requies, quin Marte diem noctemque fatiget; / atque ubi Riphaea stupuerunt flumina bruma, / iam pavidi cum prole Getae, iam pervigil ilium / Medus et oppositis exspectat Hiberia claustris.\n",
+                "number": "<Val. Fl. 5.599>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "mox ubi Thessalicis referent hos flamina terris, / tunc aderit victorque domos et sceptra tenebit, / done et Aeeten inopis post longa senectae / exilia heu magnis quantumlibet impia fatis / nata iuvet Graiusque nepos in regna reponat.\n",
+                "number": "<Val. Fl. 5.683>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "protinus e castris fugit sopor: excita tela, / turbatique coire duces; hos insuper ingens / fama movet, rate quae sacra vulgabat Achivos / advenisse sui repetentes vellera Phrixi, / quos malus hospitio iunctaque ad foedera dextra / luserit Aeetes atque in sua traxerit arma.\n",
+                "number": "<Val. Fl. 6.8>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Parte alia infestis (nam fors ita iunxit ) in armis / Styrus adest, laetusque virum cognoscit Anausis, / et prior 'en cuius thalamis Aeetia virgo / dicta manet nostrosque feret qui victor amores.\n",
+                "number": "<Val. Fl. 6.264>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "fulsit ab invita numen procul, et pavor artus / protinus atque ingens Aeetida perculit horror.\n",
+                "number": "<Val. Fl. 6.480>",
+                "sentiments": "(\"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "nec minus Aeolii proles Aeetia Phrixi / fertur et ipsa furens ac se modo laeta Cytaeis / agminibus, modo cognatis ostentat Achivis.\n",
+                "number": "<Val. Fl. 6.542>",
+                "sentiments": "(\"agitation\", \"joy\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Regius eois Myraces interpres ab oris / venerat, ut Colchos procul atque Aeetia Parthis / foedera donato non inrita iungeret auro.\n",
+                "number": "<Val. Fl. 6.690>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "6"
+            },
+            {
+                "sentence": "miraris et ipse, / credo, nec agnoscunt hae nunc Aeetida silvae.\n",
+                "number": "<Val. Fl. 7.445>",
+                "sentiments": "(\"admiration\",)",
+                "book_number": "7"
+            },
+            {
+                "sentence": "fixerat ille gradus totoque ex agmine solus / stabat, ut extremis desertus ab orbibus aclis, / quem iam lassa dies austrique ardentis harenae, / aut quem Riphaeas exstantem rursus ad arces / nix et caerulei Boreae ferus abstulit horror, / cum subito attoniti longissima Phasidis unda / Caucaseaeque trabes omnisque Aeetia tellus / fulsit et ardentes stabula effudere tenebras.\n",
+                "number": "<Val. Fl. 7.560>",
+                "sentiments": "(\"sadness\", \"fear\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "stupet Aeetes ultroque furentes / ipse viros revocare cupit, sed cuncta iacebant / agmina, nec quisquam primus ruit aut super ullus / linquitur, atque hausit subito sua funera tellus.\n",
+                "number": "<Val. Fl. 7.638>",
+                "sentiments": "(\"agitation\", \"sadness\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "inc subitis †inflexit† frater in armis, / urbs etiam mox tota colt, volat ipse senectae / immemor Aeetes, complentur litora bello / nequiquam; fugit immissis nam puppis habenis / Mater adhuc ambas tendebat in aequora palmas / et soror atque omnes aliae matresque nurusque / Colchides aequalesque tibi, Medea, puellae.\n",
+                "number": "<Val. Fl. 8.136>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "adnuit unanimis Venus, hortatorque Cupido / suscitat adfixam maestis Aeetida curis; / ipsa suas illi croceo subtegmine vestes / induit, ipsa suam duplicem Cytherea coronam / donat et arsuras alia cum virgine gemmas.\n",
+                "number": "<Val. Fl. 8.232>",
+                "sentiments": "(\"love\", \"joy\", \"admiration\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "hac dudum Minyae Pagasaeaque puppis / in statione manent; illinc Aeetius heros / obsidet adversa tentoria Thessala classe / impatiens, pugnaeque datur non ulla potestas.\n",
+                "number": "<Val. Fl. 8.379>",
+                "sentiments": "(\"agitation\", \"anger\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Iuno": {
+        "name": "Iuno",
+        "occurrences": [
+            {
+                "sentence": "an socia Iunone et Pallade fretus / armisona superet magis et freta iussa capessat, / siqua operis tanti domito consurgere ponto / fama queat?\n",
+                "number": "<Val. Fl. 1.73>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "at Iuno Argolicas pariter Macetumque per urbes / spargit inexpertos temptare parentibus austros / Aesoniden; iam stare ratem remisque superbam / poscere quos revehat rebusque in saecula tollat.\n",
+                "number": "<Val. Fl. 1.96>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "sic amplexu, sic pectora fratris, / Iuno, tene; tuque o puppem ne desere, Pallas: /\n",
+                "number": "<Val. Fl. 1.214>",
+                "sentiments": "(\"love\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Interea scelerum luctusque ignarus Iason / alta secat; neque enim patrios cognoscere casus / Iuno sinit, mediis ardens ne flectat ab undis / ac temere in Pelian et adhuc obstantia regis / fata ruat placitosque deis ne deserat actus.\n",
+                "number": "<Val. Fl. 2.1>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Tempore quo primum fremitus insurgere opertos / caelicolum et regni sensit novitate tumentes / Iuppiter aetheriae nec stare silentia pacis, / Iunonem volucri primam suspendit Olympo / horrendum chaos ostendens poenamque barathri.\n",
+                "number": "<Val. Fl. 2.82>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "at diversa Sagen turbantem fallere nervo / tum primum puer ausus Hylas (spes maxima bellis / pulcher Hylas, si fata sinant, si prospera Iuno), / prostravitque virum celeri per pectora telo.\n",
+                "number": "<Val. Fl. 3.181>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Ilium ubi Iuno poli summo de vertice puppem / deseruisse videt, tempus rata diva nocendi / Pallada consortem curis cursusque regentem, / nequa inde inceptis fieret mora, fallere prima / molitur caroque dolis avertere fratri.\n",
+                "number": "<Val. Fl. 3.486>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Ingemuit Iuno tandemque silentia rumpit: /\n",
+                "number": "<Val. Fl. 3.508>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "hanc delapsa polo piceaeque adclinis opacae / Iuno vocat prensaque manu sic blanda profatur: /\n",
+                "number": "<Val. Fl. 3.532>",
+                "sentiments": "(\"admiration\", \"love\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Nec minus interea crudelis iapyga Iuno / adsidue movet et primis cum solibus offert.\n",
+                "number": "<Val. Fl. 3.610>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "non ea pax odiis oblitave numine fesso / Iuno sui.\n",
+                "number": "<Val. Fl. 3.663>",
+                "sentiments": "(\"anger\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Atque ea non oculis divum pater amplius aequis / sustinuit, natique pios miseratus amores / Iunonem ardenti trepidam gravis increpat ira: /\n",
+                "number": "<Val. Fl. 4.1>",
+                "sentiments": "(\"anger\", \"agitation\", \"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "sic Iuno ducem fovet anxia curis / Aesonium, sic arma viro sociosque ministrat.\n",
+                "number": "<Val. Fl. 4.7>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "haec fatus relegitque vias et vallibus exit / incertus, quid Iuno ferat, quas apparet iras.\n",
+                "number": "<Val. Fl. 4.53>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "sentit Iuno dolos curaque accensa iugali / aethere desiluit; dominam Lyrceia tellus / antraque deprensae tremuerunt conscia culpae.\n",
+                "number": "<Val. Fl. 4.353>",
+                "sentiments": "(\"anger\", \"agitation\", \"fear\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "tum trepida Inachiae paelex subit ora iuvencae / sponte dei; plausu fovet hanc et pectora mulcet / Iuno renidenti cohibens suspiria vultu.\n",
+                "number": "<Val. Fl. 4.356>",
+                "sentiments": "(\"agitation\", \"fear\", \"shame\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "intonat alto / insurgens caelo genitor curamque fatetur, / atque ipsa imperium Iuno pavet.\n",
+                "number": "<Val. Fl. 4.413>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "hic Iuno praecepsque ex aethere Pallas / insiliunt pariter scopulos: hunc nata coercet, / hunc coniunx Iovis; ut valido qui robore tauros / sub iuga et invito detorquet in ilia cornu.\n",
+                "number": "<Val. Fl. 4.681>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "simul aethere plena corusco / Pallas et alipedum Iuno iuga sistit equorum.\n",
+                "number": "<Val. Fl. 5.182>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "at Iuno et summi virgo Iovis intima secum / consilia et varias sociabant pectore curas.\n",
+                "number": "<Val. Fl. 5.280>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "cui Iuno 'dimitte metus, ne proelia forte / hinc tibi grata negem: manet aegida sudor / et nostros iam sudor equos.\n",
+                "number": "<Val. Fl. 5.285>",
+                "sentiments": "(\"fear\", \"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "at Iuno, pulchrum longissima quando / robur cura ducis magnique edere labores, / mole nova et roseae perfudit luce iuventae.\n",
+                "number": "<Val. Fl. 5.363>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Ille autem inceptum famula duce protinus urget / aere saeptus iter, patitur nec regia cerni / Iuno virum, prior Aeetae ne nuntius adsit.\n",
+                "number": "<Val. Fl. 5.399>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Talia certatim Minyae sparsique Cytaei / funera miscebant campis Scythiamque premebant, / cum Iuno Aesonidae non hanc ad vellera cernens / esse viam nec sic reditus regina parandos / extremam molitur opem, funesta prius quam / consilia ac saevas aperit rex perfidus iras.\n",
+                "number": "<Val. Fl. 6.427>",
+                "sentiments": "(\"agitation\", \"anger\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ergo opibus magicis et virginitate tremendam / Iuno duci sociam coniungere quaerit Achivo.\n",
+                "number": "<Val. Fl. 6.449>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Ecce autem muris residens Medea paternis / singula dum magni lustrat certamina belli / atque hos ipsa procul densa in caligine reges / agnoscit quaeritque alios Iunone magistra, / conspicit Aesonium longe caput, ac simul acres / huc oculos sensusque refert animumque faventem, / nunc quo se raperet, nunc quo diversus abiret, / ante videns, quotque unus equos, quot funderet arma, / errantesque viros quam densis sisteret hastis.\n",
+                "number": "<Val. Fl. 6.575>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "contra aspera Iuno / reddit agens stimulis ac diris fraudibus urget: /\n",
+                "number": "<Val. Fl. 6.590>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "'vos Scythiae saturare canes Scythiaeque volucres / huc miseri venistis?' ait saxumque prehensum, / illius et dextrae gestamen et illius aevi, / concussa molitur humo, quod regia Iuno / flexit ad ignotum caput infletumque Monesi.\n",
+                "number": "<Val. Fl. 6.647>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "haec fantem medio in sermone reliquit / incepti iam Iuno potens securaque fraudis.\n",
+                "number": "<Val. Fl. 6.679>",
+                "sentiments": "(\"shame\", \"sadness\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "His ubi nequiquam nutantem Colchida curis / Iuno videt necdum extremo parere furori, / non iam mentitae vultum vocemque resumit / Chalciopes.\n",
+                "number": "<Val. Fl. 7.153>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "protinus hinc Iris Minyas, Cytherea petivit / Colchida; Caucaseis speculatrix Iuno resedit / rupibus, attonitos Aeaea in moenia vultus / speque metuque tenens et adhuc ignara futuri.\n",
+                "number": "<Val. Fl. 7.189>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Iuno ubi nunc, ubi nunc Tritonia virgo, / sola tibi quoniam tantis in casibus adsum / externae regina domus?\n",
+                "number": "<Val. Fl. 7.443>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "qualis sanguineo victor Gradivus ab Hebro / Idalium furto subit aut dilecta Cythera, / seu cum caelestes Alcidae invisere mensas / iam vacat et fessum Iunonia sustinet Hebe.\n",
+                "number": "<Val. Fl. 8.228>",
+                "sentiments": "(\"admiration\", \"love\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "Haud ita sed summo segnis sedet aethere Iuno / aut sinit extrema Minyas decernere pugna, / nec numero quoniam Colchis nec puppibus aequos.\n",
+                "number": "<Val. Fl. 8.319>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "noctes atque dies vastis mare fluetibus inter / perfurit, expediant donec Iunonia sese / consilia atque aliquem bello ferat anxia finem / At Minyae tanti reputantes ultima belli / urgent et precibus cuncti fremituque fatigant / Aesoniden.\n",
+                "number": "<Val. Fl. 8.383>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Iuppiter": {
+        "name": "Iuppiter",
+        "occurrences": [
+            {
+                "sentence": "tandem animi incertum confusaque pectora firmat / relligio, tendensque pias ad sidera palmas / 'omnipotens regina', inquit 'quam, turbidus atro / aethere caeruleum quateret cum Iuppiter imbrem, / ipse ego praecipiti tumidum per Enipea nimbo / in campos et tuta tuli nec credere quivi / ante deam, quam te tonitru nutuque reposci / coniugis et subita raptam formidine vidi, / da Scythiam Phasimque mihi; tuque, innuba Pallas, / eripe me.\n",
+                "number": "<Val. Fl. 1.79>",
+                "sentiments": "(\"fear\", \"agitation\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Talia cunctanti laevum Iovis armiger aethra / advenit et validis fixam erigit unguibus agnam.\n",
+                "number": "<Val. Fl. 1.155>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "non mihi Thessalici pietas culpanda tyranni / suspective doli: deus haec, deus omine dextro / imperat; ipse suo voluit commercia mundo / Iuppiter et tantos hominum miscere labores.\n",
+                "number": "<Val. Fl. 1.244>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "'Dodonida quercum / Chaoniique vides famulam Iovis.\n",
+                "number": "<Val. Fl. 1.302>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "nunc ille dies (det Iuppiter oro), / ille super, quo te Scythici regisque marisque / victorem atque umeros ardentem vellere rapto / accipiam cedamque tuae mea facta iuventae.'\n",
+                "number": "<Val. Fl. 1.344>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "fluctibus e mediis terras dabit ille magistro / et dabit astra rati, cumque aethera Iuppiter umbra / perdiderit, solus transibit nubila Lynceus.\n",
+                "number": "<Val. Fl. 1.465>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "ergo umeros ductor sacro velatur amictu / Aesoniamque capit pateram, quam munere gaudens / liquerat hospitio pharetrasque rependerat auro / Salmoneus, nondum ille furens, qui fingeret alti / quadrifida trabe tela Iovis contraque ruenti / aut Athon aut Rhodopen maestae nemora ardua Pisae / aemulus et miseros ipse ureret Elidis agros.\n",
+                "number": "<Val. Fl. 1.659>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Tiphys agit tacitique sedent ad iussa ministri; / qualiter ad summi solium Iovis omnia circum / prona parata deo, ventique imbresque nivesque / fulguraque et tonitrus et adhuc in fontibus amnes.\n",
+                "number": "<Val. Fl. 1.689>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Tartareo turn sacra Iovi Stygiisque ferebat / manibus Alcimede tanto super auxia nato, / siquid ab excitis melius praenosceret umbris.\n",
+                "number": "<Val. Fl. 1.730>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "'vos, quibus imperium Iovis et non segne peractum / lucis iter, mihi conciliis, mihi cognita bellis / nomina magnorum fama sacrata nepotum; / tuque, excite parens umbris, ut nostra videres / funera et oblitos superum paterere dolores, / da placidae mihi sedis iter meque hostia vestris / conciliet praemissa locis.\n",
+                "number": "<Val. Fl. 1.788>",
+                "sentiments": "(\"sadness\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "tu, nuntia sontum / virgo Iovi, terras oculis quae prospicis aequis, / ultricesque deae Fasque et grandaeva Furorum / poena parens, meritis regis succedite tectis / et saevas inferte faces.\n",
+                "number": "<Val. Fl. 1.794>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "quantis, pro Iuppiter, austris / restitimus, quanta quotiens et Palladis arte / incassum decimae cecidit tumor arduus undae.\n",
+                "number": "<Val. Fl. 2.52>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Tempore quo primum fremitus insurgere opertos / caelicolum et regni sensit novitate tumentes / Iuppiter aetheriae nec stare silentia pacis, / Iunonem volucri primam suspendit Olympo / horrendum chaos ostendens poenamque barathri.\n",
+                "number": "<Val. Fl. 2.82>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "iam nemus Egeriae, iam te ciet altus ab Alba / Iuppiter et soli non mitis Aricia regi.\n",
+                "number": "<Val. Fl. 2.304>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Pliada lege poli nimboso moverat astro / Iuppiter aeternum volvens opus, et simul undis / cuncta ruunt, unoque dei Pangaea sub ictu / Gargaraque et maesti steterunt formidine luci.\n",
+                "number": "<Val. Fl. 2.357>",
+                "sentiments": "(\"fear\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "saevior haut alio mortales tempore gentes / terror agit; tune urget enim, tune flagitat iras / in populos Astraea Iovem terrisque relictis / invocat adsiduo Saturnia sidera questu.\n",
+                "number": "<Val. Fl. 2.361>",
+                "sentiments": "(\"fear\", \"anger\", \"agitation\", \"sadness\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "pars et frondosae raptus expresserat Idae / illustremque fugam pueri; mox aethere laetus / adstabat mensis, quin et Iovis armiger ipse / accipit a Phrygio iam pocula blanda ministro.\n",
+                "number": "<Val. Fl. 2.414>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "hanc demissa Iovi non umquam laedere fluctu / audet hiems.\n",
+                "number": "<Val. Fl. 2.434>",
+                "sentiments": "(\"admiration\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "'maxime Graiugenum, quem non Sigea petentem / litora nec nostrae miserantem funera Troiae / adpulit his fors ipsa locis, si vera parentem / fama Iovem summique tibi genus esse Tonantis, / noster ades iunctisque venis: sator unus et idem / stirpis honos, quamquam longis disiungimur oris.\n",
+                "number": "<Val. Fl. 2.557>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "cur talia passus / arma, quid hospitiis iunctas concurrere dextras / Iuppiter?\n",
+                "number": "<Val. Fl. 3.17>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "adglomerant latera, et densis thoracibus horrens / stat manus, aegisono quam nec fera pectore virgo / dispulerit nec dextra Iovis Terrorque Pavorque, / Martis equi.\n",
+                "number": "<Val. Fl. 3.86>",
+                "sentiments": "(\"agitation\", \"fear\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "sic contextis umbonibus urgent, / caeruleo veluti cum Iuppiter agmine nubem / constituit: certant zephyri frustraque rigentem / pulsat utrimque notus; pendent mortalia longo / corda metu, quibus illa fretis, quibus incidat arvis.\n",
+                "number": "<Val. Fl. 3.89>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ille leves de more manus aciemque Pelasgum / per noctem remeasse ratus pulsumque requirens / saepe sibi vano Thamyrim clamore petebat / arduus et late fumanti nube coruscus; / quantus ubi immenso prospexit ab aethere Typhon / igne simul ventisque rubens, quem Iuppiter alte / crine tenet; trepidant diro sub lumine puppes.\n",
+                "number": "<Val. Fl. 3.125>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "cum deinde tremendi / ad solium venere Iovis questuque nefandam / edocuere necem, patet ollis ianua leti / atque iterum remeare licet; comes una sororum / additur et pariter terras atque aequora lustrant.\n",
+                "number": "<Val. Fl. 3.383>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "memori iam pridem cognita vati / est procul ad Stygiae devexa silentia noctis / Cimmerium domus et superis incognita tellus, / caeruleo tenebrosa situ, quo flammea numquam / Sol iuga sidereos nec mittit Iuppiter annos.\n",
+                "number": "<Val. Fl. 3.396>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Iuppiter urgentem ceu summa Ceraunia nubem / cum pepulit movitque iugis, fulsere repente / et nemora et scopuli nitidusque reducitur aether, / sic animi rediere viris, iamque ipse magister / nutat ab arce ratis remisque obsistere tendit.\n",
+                "number": "<Val. Fl. 3.464>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ceu pectora nautis / congelat hiberni vultus Iovis agricolisve, / cum coit umbra minax, comitis sic adficit error / Alciden saevaeque monet meminisse novercae.\n",
+                "number": "<Val. Fl. 3.576>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "'o utinam, Scythicis struerem cum funera terris, / vox mihi mentitas tulerit Parnasia sortes, / agmine de tanto socium qui maximus armis / adforet, hune Iovis imperils fatoque teneri / ante procellosum scopulis errantibus aequor: /\n",
+                "number": "<Val. Fl. 3.616>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "non datur haec magni proles Iovis; at tibi Pollux / stirpe pares Castorque manent, at cetera divum / progenies, nec parva mihi fiducia gentis.\n",
+                "number": "<Val. Fl. 3.666>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "'quis terris pro Iuppiter' inquit 'Achaeis / iste dies, saevi capient quae gaudia Colchi.\n",
+                "number": "<Val. Fl. 3.696>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "nunc Iovis accessus et iam mihi limina caeli / conciliat iungitque toros et fontis honores.\n",
+                "number": "<Val. Fl. 4.28>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "Iamque iter ad Teucros atque hospita moenia Troiae / flexerat Iliaci repetens promissa tyranni, / cum maesto Latona simul Dianaque vultu / ante Iovem stetit et supplex sic fatur Apollo: /\n",
+                "number": "<Val. Fl. 4.58>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "dixit ubi, e scopulis media inter pabula diri / vulturis ipse etiam gemitu maestaque fatigat / voce Iovem saevis relevans ambusta pruinis / lumina; congeminant amnes rupesque fragorem / Caucaseae; stupet ipse dei clamoribus ales.\n",
+                "number": "<Val. Fl. 4.67>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "tunc etiam superas Acheronte auditus ad arces / Iapetus; gravis orantem procul arcet Erinys / respiciens celsi legem Iovis.\n",
+                "number": "<Val. Fl. 4.73>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "sic te olim pergere sensi, / Iuppiter, iniustae quando mihi virginis armis / concidit infelix et nunc chaos implet Orion.\n",
+                "number": "<Val. Fl. 4.121>",
+                "sentiments": "(\"sadness\", \"anger\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "iam iam aliae vires maioraque sanguine nostro / vincunt fata Iovis, potior cui cura suorum est.\n",
+                "number": "<Val. Fl. 4.126>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "nec lacrimae (ne ferte preces) superive vocati / pectora nostra movent; aliis rex Iuppiter oris.\n",
+                "number": "<Val. Fl. 4.217>",
+                "sentiments": "(\"sadness\", \"disgust\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "odia aspera surgunt / ignotis prius atque incensa mente feruntur / in medium sanguis Iovis et Neptunia proles.\n",
+                "number": "<Val. Fl. 4.253>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "'salve vera Iovis, vera o Iovis' undique 'proles' / ingeminant, 'o magnanimis memoranda palaestris / Taygeta et primi felix labor ille magistri.'\n",
+                "number": "<Val. Fl. 4.326>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "'videre priores / saepe Iovem in terras Argivaque regna Pelasgum / virginis Iasiae blandos descendere ad ignes.\n",
+                "number": "<Val. Fl. 4.350>",
+                "sentiments": "(\"love\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "mox ita adorta Iovem:\n",
+                "number": "<Val. Fl. 4.359>",
+                "sentiments": "(\"agitation\",)",
+                "book_number": "4"
+            },
+            {
+                "sentence": "qua fraude negaret / aut quos inventus finxisset Iuppiter astus?\n",
+                "number": "<Val. Fl. 4.363>",
+                "sentiments": "(\"agitation\", \"anger\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "iamque refecta Iovi paulatim in imagine prisca / ibat agris Io victrix lunonis et ecce / cum facibus spirisque et Tartareo ululatu / Tisiphonen videt: ac primo vestigia visu / figit et in miserae rursus bovis ora recurrit, / nec qua valle memor nec quo se vertice sistat.\n",
+                "number": "<Val. Fl. 4.390>",
+                "sentiments": "(\"fear\", \"agitation\", \"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "nec Iovis interea cessat manus.\n",
+                "number": "<Val. Fl. 4.413>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "fata loquax mentemque Iovis quaeque abdita solus / consilia et terris subito ventura parabat / prodideram miserans hominum genus; hinc mihi tanta / pestis et offusae media inter dicta tenebrae.\n",
+                "number": "<Val. Fl. 4.478>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "cur tenditis ultra / in famulas saevire Iovis, quas, fulmina quamquam / aegidaque ille gerens, magnas sibi legit in iras?\n",
+                "number": "<Val. Fl. 4.518>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "omnis adhuc sors laeta quidem, nec numine vano / (siqua fides curae superum) tantum aequor adorti / tendimus: ipsa mihi puppem Iovis optima proles / instituit, dedit et socios Saturnia reges.\n",
+                "number": "<Val. Fl. 4.539>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "stupet Aesonis inclita proles / Phinea ceu numquam poenis nullaque gravatum / peste Iovis: tam largus honos, tam mira senectae / maiestas infusa; vigor novus auxerat artus.\n",
+                "number": "<Val. Fl. 4.548>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "ipse etiam, qui me prohibet sua pandere terris / saecula, te propter fandi mihi Iuppiter auctor.\n",
+                "number": "<Val. Fl. 4.558>",
+                "sentiments": "(\"admiration\",)",
+                "book_number": "4"
+            },
+            {
+                "sentence": "cum mihi Tartareas saevo clangore volucres / protulit ira Iovis, vox haec simul excidit auris: /\n",
+                "number": "<Val. Fl. 4.578>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "hic Iuno praecepsque ex aethere Pallas / insiliunt pariter scopulos: hunc nata coercet, / hunc coniunx Iovis; ut valido qui robore tauros / sub iuga et invito detorquet in ilia cornu.\n",
+                "number": "<Val. Fl. 4.681>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "talia fundit, / imperio fixos Iovis aeternumque revinctos / nescius.\n",
+                "number": "<Val. Fl. 4.706>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "4"
+            },
+            {
+                "sentence": "fatur, et ostentans prolem Iovis 'hic tibi Pollux / en' ait, 'inviso solvit cui pectore poenas.'\n",
+                "number": "<Val. Fl. 4.755>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "Assyrios complexa sinus stat opima Sinope, / nympha prius blandosque Iovis quae luserat ignes / caelicolis immota procis: deceptus amatae / fraude deae nec solus Halys nec solus Apollo.\n",
+                "number": "<Val. Fl. 5.109>",
+                "sentiments": "(\"love\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "inde Genetaei rupem Iovis, hinc Tibarenum / dant virides post terga lacus, ubi deside mitra / feta ligat partuque virum fovet ipsa soluto.\n",
+                "number": "<Val. Fl. 5.147>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "fit fragor, aetherias ceu Iuppiter arduus arces / impulerit imas manus aut Neptunia terras.\n",
+                "number": "<Val. Fl. 5.163>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "tunc tibi, fecundi proles Iovis, orte nivali / Arcados axe deae, fluvio modo, Phasi, quieto / Palladiam patiare rate, nec dona nec arae / defuerint tellure mea; reverenda fluentis / effigies te, Phasi, manet, quam magnus Enipeus / et pater aurato quantus iacet Inachus antro.'\n",
+                "number": "<Val. Fl. 5.204>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "at Iuno et summi virgo Iovis intima secum / consilia et varias sociabant pectore curas.\n",
+                "number": "<Val. Fl. 5.280>",
+                "sentiments": "(\"agitation\", \"neutral\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "qualiter ex alta cum Iuppiter arce coruscat, / Pliadas ille movens mixtumque sonoribus imbrem / horriferamve nivem, canis ubi tollitur omnis / campus aquis, aut sanguinei magna ostia belli / aut alios duris fatorum gentibus ortus: /\n",
+                "number": "<Val. Fl. 5.304>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "non secus autumno quam cum magis asperat ignes / Sirius et saevo cum nox accenditur auro / luciferas crinita faces, hebet Areas et ingens / Iuppiter; ast ilium tanto non gliscere caelo / vellet ager, vellent calidis iam fontibus amnes.\n",
+                "number": "<Val. Fl. 5.368>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "namque idem Cretheus ambobus et Aeolus auctor / cum Iove Neptunoque et cum Salmonide nympha.\n",
+                "number": "<Val. Fl. 5.477>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "5"
+            },
+            {
+                "sentence": "'o Iovis alma / progenies, fare, an patriam spes ulla videndi, / fare' omnes.\n",
+                "number": "<Val. Fl. 5.550>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "interea laeto patitur convivia cultu / et iuxta Aesoniden magno cratere lacessit / nunc sibi monstrantem natos Iovis oraque iuxta / Aeacidum, nunc ingentis Calydonos alumnos; / audit et Alciden infando errore relictum / defletosque duces terraeque marisque labores.\n",
+                "number": "<Val. Fl. 5.570>",
+                "sentiments": "(\"admiration\", \"sadness\", \"joy\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "citus ad summi stellantia patris / tecta ruit questuque Iovem testatur acerbo: /\n",
+                "number": "<Val. Fl. 5.622>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "'non tibi Aloidae, quibus haec fera murmura iactes, / non Lapithae, sed Pallas' ait; 'neque ego aegide digna, / nec vocer ulterius proles Iovis, excidat iste / ni tibi corde tumor: lituos miser armaque faxo / oderis et primis adimam tua nomina bellis.\n",
+                "number": "<Val. Fl. 5.651>",
+                "sentiments": "(\"anger\", \"agitation\", \"disgust\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "proxima Bisaltae legio ductorque Colaxes, / sanguis et ipse deum, Scythicis quem Iuppiter oris / progenuit viridem Myracen Tibisenaque iuxta / ostia, semifero (dignum si credere) captus / corpore, nec nymphae geminos exhorruit angues.\n",
+                "number": "<Val. Fl. 6.48>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "cuncta phalanx insigne Iovis caelataque gestat / tegmina disperses trifidis ardoribus ignes; / nec primus radios, miles Romane, corusci / fulminis et rutilas scutis diffuderis alas.\n",
+                "number": "<Val. Fl. 6.53>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "hos super aeratam Phalces agit aequore nubem / cum fremitu, densique levant vexilla Coralli, / barbaricae quis signa rotae ferrataque dorso / forma suum truncaeque Iovis simulacra columnae; / proelia nec rauco curant incendere cornu, / indigenas sed rite duces et prisca suorum / facta canunt veterumque viris hortamina Iaudes.\n",
+                "number": "<Val. Fl. 6.87>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "fama, ducem Iovis et Cadmi de sanguine Bacchum / hac quoque turiferos, felicia regna, Sabaeos, / hac Arabas fudisse manu; mox rumperet Hebri / cum vada, Thyrsagetas gelida liquisse sub arcto.\n",
+                "number": "<Val. Fl. 6.136>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ipse rotis gemit ictus ager tremibundaque pulsu / nutat humus, quatit ut saevo cum fulmine Phlegram / Iuppiter atque imis Typhoea verberat arvis.\n",
+                "number": "<Val. Fl. 6.167>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "qualiter exosus Pyrrhae genus aequora rursus / Iuppiter atque omnes fluvium si fundat habenas, / ardua Parnasi lateant iuga, cesserit Othrys / piniger et mersis decrescant rupibus Alpes: /\n",
+                "number": "<Val. Fl. 6.390>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "durus ut Argolicis Tirynthius exulat oris, / mens mihi non eadem Iovis atque adversa voluntas, / nullus honor thalamis flammaeve in nocte priores.\n",
+                "number": "<Val. Fl. 6.462>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ora sub excelso iamdudum vertice coni / saeva micant, cursuque ardescit, nec tibi, Perse, / nec tibi, virgo, iubae laetabile sidus Achivae, / acer ut autumni canis iratoque vocati / ab Iove fatales ad regna iniusta cometae.\n",
+                "number": "<Val. Fl. 6.604>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "At genitus Iove complerat sua fata Colaxes; / iamque pater maesto contristat sidera vultu / talibus aegra movens nequiquam pectora curis: /\n",
+                "number": "<Val. Fl. 6.621>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "talis in extremo proles Iovis emicat aevo / et nunc magnanimos Hypetaona Gessithoumque, / nunc Arinen Olbumque notat; iam saucius Aprem / et desertus equo Thydrum pedes exigit hasta / Phasiaden, pecoris custos de more paterni / Caucasus ad primas genuit quem Phasidis undas; / hinc puero cognomen erat, famulumque ferebant / Phasidis intonso nequiquam crine parentes.\n",
+                "number": "<Val. Fl. 6.636>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "praeceps ille ruit; nato non depulit ictus / Iuppiter, Aesoniae vulnus fatale sed hastae / per clipeum, per pectus abit, lapsoque cruentus / advolat Aesonides mortemque cadentis acerbat.\n",
+                "number": "<Val. Fl. 6.652>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "quid fratris meritas tua, Iuppiter, omina / promisere mihi?\n",
+                "number": "<Val. Fl. 6.730>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ac velut ex una siquando nube corusci / ira Iovis torsit geminos mortalibus ignes, / aut duo cum pariter ruperunt vincula venti / dantque fugam: sic tunc claustris evasit uterque / taurus et immani proflavit turbine flammas / arduus atque atro volvens incendia fluctu.\n",
+                "number": "<Val. Fl. 7.568>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Absyrtus subita praeceps cum classe parentis / advehitur profugis infestam lampada Grais / concutiens, diroque premens clamore sororem / atque 'hanc, o siquis vobis dolor iraque, Colchi, / adcelerate viam; neque enim fugit aequore raptor / Iuppiter aut falsi sequitur vestigia tauri.\n",
+                "number": "<Val. Fl. 8.261>",
+                "sentiments": "(\"anger\", \"agitation\", \"sadness\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Iason": {
+        "name": "Iason",
+        "occurrences": [
+            {
+                "sentence": "at Iuno Argolicas pariter Macetumque per urbes / spargit inexpertos temptare parentibus austros / Aesoniden; iam stare ratem remisque superbam / poscere quos revehat rebusque in saecula tollat.\n",
+                "number": "<Val. Fl. 1.96>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "accipit augurium Aesonides laetusque superbi / tecta petit Peliae.\n",
+                "number": "<Val. Fl. 1.161>",
+                "sentiments": "(\"joy\",)",
+                "book_number": "1"
+            },
+            {
+                "sentence": "ipse ter aequoreo libans carchesia patri / sic ait Aesonides:\n",
+                "number": "<Val. Fl. 1.193>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "1"
+            },
+            {
+                "sentence": "miser eripe parvos, / Aesonide.\n",
+                "number": "<Val. Fl. 1.225>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "illis placidi sermonis Iason / suggerit adfatus turbataque pectora mulcet.\n",
+                "number": "<Val. Fl. 1.298>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "donat et Iphiclo pelagus iuvenumque labores / Aesonides, fessum Phylace quem miserat aevo / non iam operum in partem, monitus sed tradat ut acres / magnorumque viros qui laudibus urat avorum.\n",
+                "number": "<Val. Fl. 1.473>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "ille ubi se mediae per scuta virosque carinae / intulit, ardenti Aesonides retinacula ferro / abscidit; haut aliter saltus vastataque pernix / venator cum lustra fugit dominoque timentem / urget equum, teneras compressans pectore tigres, / quas astu rapuit pavido, dum saeva relictis / mater in adverso catulis venatur Amano.\n",
+                "number": "<Val. Fl. 1.487>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Interea scelerum luctusque ignarus Iason / alta secat; neque enim patrios cognoscere casus / Iuno sinit, mediis ardens ne flectat ab undis / ac temere in Pelian et adhuc obstantia regis / fata ruat placitosque deis ne deserat actus.\n",
+                "number": "<Val. Fl. 2.1>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "substitit Aesonides, atque hic regina precari / hortatur causasque docens 'haec antra videtis / Vulcanique' ait 'ecce domos: date vina precesque...\n",
+                "number": "<Val. Fl. 2.334>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "iam medium Aesonides, iam se regina locavit, / post alii proceres; sacris dum vincitur extis / prima fames, circum pateris it Bacchus, et omnis / aula silet; dapibus coeptis mox tempora fallunt / noctis et in seras durant sermonibus umbras, / praecipueque ducis casus mirata requirit / Hypsipyle, quae fata trahant, quae regis agat vis / aut unde Haemoniae molem ratis: unius haeret / adloquio et blandos paulatim colligit ignes / iam non dura toris Veneri nec iniqua reversae, / et deus ipse moras spatiumque indulget amori.\n",
+                "number": "<Val. Fl. 2.346>",
+                "sentiments": "(\"love\", \"admiration\", \"joy\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Phasin et Aeeten Scythicique pericula ponti / redde' ait 'Aesonide: me tecum solus in aequor / rerum traxit amor, dum spes mihi sistere montes / Cyaneos vigilemque alium spoliare draconem.\n",
+                "number": "<Val. Fl. 2.379>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "haec ubi dicta, / baud secus Aesonides monitis accensus amaris, / quam bellator equus, longa quem frigida pace / terra iuvat, †brevis† in laevos piger angitur orbes, / frena tamen dominumque velit, si Martius aures / clamor et obliti rursus fragor impleat aeris.\n",
+                "number": "<Val. Fl. 2.384>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "ipsa quoque Hypsipyle subitos per litora cursus / ut vidit totaque viros decedere Lemno, / ingemit et tali compellat Iasona questu: /\n",
+                "number": "<Val. Fl. 2.400>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "i, memor i terrae, quae vos amplexa quieto / prima sinu, refer et domitis a Colchidos oris / vela per hunc utero quem linquis Iasona nostro.'\n",
+                "number": "<Val. Fl. 2.422>",
+                "sentiments": "(\"sadness\", \"love\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "subicit Aesonides:\n",
+                "number": "<Val. Fl. 2.658>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "2"
+            },
+            {
+                "sentence": "princeps galeam constringit Iason / vociferans:\n",
+                "number": "<Val. Fl. 3.79>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "dextram tendens proclamat Iason / 'quos fugitis?\n",
+                "number": "<Val. Fl. 3.268>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "medio rex aggere longe / eminet; hunc crebris quatiens singultibus ora / adlevat Aesonides celsoque reponit in ostro.\n",
+                "number": "<Val. Fl. 3.336>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ipse etiam Aesonides, quamquam tristissima rerum / castiganda duci vultuque premenda sereno, / dulcibus indulget lacrimis aperitque dolorem.\n",
+                "number": "<Val. Fl. 3.368>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ergo animum flexus dictis instantis Iason / concedit sociosque simul sic fatur ad omnes: /\n",
+                "number": "<Val. Fl. 3.614>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Talia dicta dabat, cum protinus asper Iason / et simul Aeacidae simul et Calydonis alumni / Nelidesque Idasque prior quae maxima surgunt / nomina; sed nudo steterat iam pectore Pollux.\n",
+                "number": "<Val. Fl. 4.220>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "hunc ubi reclinem stratis et pace fruentem / aspicit ac longae ducentem oblivia poenae, / talibus appellat supplexque ita fatur Iason: /\n",
+                "number": "<Val. Fl. 4.534>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "Tum subita resides socios formidine Iason / praecipitat rumpitque moras tempusque timendi.\n",
+                "number": "<Val. Fl. 4.625>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "ipse per arma volans et per iuga summa carinae / hortatur supplexque manus intendit Iason / nomine quemque premens.\n",
+                "number": "<Val. Fl. 4.646>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "'sequor, o quicumque deorum' / Aesonides 'vel fallis' ait, praecepsque fragores / per medios ruit et fumo se condidit atro.\n",
+                "number": "<Val. Fl. 4.673>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "adproperat Lycus auditis laetatus Achivis, / ac simul Aesoniden omnemnque in regia turbam / tecta trahit modo Bebryciis praefixa tropaeis, / mitis et in mediis effatur talia Grais: /\n",
+                "number": "<Val. Fl. 4.736>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "excipit Aesonides 'tuus ergo in montibus ignis / ille?\n",
+                "number": "<Val. Fl. 4.753>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "at memor Aesonides nimium iam vera locuti / Phincos hinc alios rapto pavet Idmone luctus.\n",
+                "number": "<Val. Fl. 5.4>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "non tulit Aesonides geminis flagrantia cernens / corpora cara rogis, sed pectore ductor ab imo / talia voce gemit:\n",
+                "number": "<Val. Fl. 5.35>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "haud mora: reliquias socii defletaque miscent / nomina; tum vivo frondens e caespite tellus / aggeritur, cineremque Lyco conmmendat Iason.\n",
+                "number": "<Val. Fl. 5.59>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "praecipue Aesoniden varios incerta per aestus / mens rapit undantem curis ac multa moventem.\n",
+                "number": "<Val. Fl. 5.302>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "admonet hie socios nebulamque erumpit Iason / sideris ora ferens; nova lux offusa Cytaeis.\n",
+                "number": "<Val. Fl. 5.465>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "postquam primis inhiantia dictis / agmina suppressumque videt iam murmur Iason, / talia miranti propius tulit orsa tyranno: /\n",
+                "number": "<Val. Fl. 5.468>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "contra inscius astus / 'ergo nec hic nostris derat labor arduus actis' / excipit Aesonides 'et ceu nihil aequore passis / additus iste dies?\n",
+                "number": "<Val. Fl. 5.541>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "interea laeto patitur convivia cultu / et iuxta Aesoniden magno cratere lacessit / nunc sibi monstrantem natos Iovis oraque iuxta / Aeacidum, nunc ingentis Calydonos alumnos; / audit et Alciden infando errore relictum / defletosque duces terraeque marisque labores.\n",
+                "number": "<Val. Fl. 5.570>",
+                "sentiments": "(\"joy\", \"admiration\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "ipse autem tantis concita furoribus arma / expetit Aesonides et amicos ordine reges: /\n",
+                "number": "<Val. Fl. 5.576>",
+                "sentiments": "(\"agitation\", \"anger\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "'illum' ait Aesonides 'pariter refer, horrida signis / cui chlamys et multa spirat coma flexilis aura.'\n",
+                "number": "<Val. Fl. 5.586>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "quid tuus Aesonides?\n",
+                "number": "<Val. Fl. 5.636>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "5"
+            },
+            {
+                "sentence": "at circa Aesoniden Danaum manus ipsaque Pallas / aegide terrifica, quam nec dea lassat habendo / nec pater horrentem colubris vultuque tremendam / Gorgoneo; nec semineces ostendere crines / tempus adhuc, primasque sinit concurrere pugnas.\n",
+                "number": "<Val. Fl. 6.172>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "atque hos in medio duri discrimine belli / laudibus inque ipsis gaudens ubi vidit Iason, / 'macte' ait 'o nostrum genus et iam certa propago / Aeoliae nec opina domus; sat magna laborum / dona fero, satis hoc visu quaecumque rependo.'\n",
+                "number": "<Val. Fl. 6.545>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "quaque iterum tacito sparsit vaga lumina vultu / aut fratris quaerens aut pacti coniugis arma, / saevus ibi miserae solusque occurrit Iason.\n",
+                "number": "<Val. Fl. 6.584>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "'ipsum' ait 'Aesoniden cernis, soror, aequore tanto / debita cognati repetit qui vellera Phrixi, / nec nunc laude prior generis nec sanguine quisquam.\n",
+                "number": "<Val. Fl. 6.592>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "iamque aliis instabat atrox, cum diva supremas / rumpit iniqua colus, victorque advenit Iason.\n",
+                "number": "<Val. Fl. 6.644>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "praeceps ille ruit; nato non depulit ictus / Iuppiter, Aesoniae vulnus fatale sed hastae / per clipeum, per pectus abit, lapsoque cruentus / advolat Aesonides mortemque cadentis acerbat.\n",
+                "number": "<Val. Fl. 6.652>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "at quotiens vis dura ducum densique repente / Aesoniden pressere viri cumque omnis in unum / imber iit, totiens saxis pulsatur et hastis: /\n",
+                "number": "<Val. Fl. 6.683>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "saeva quidem lucis miseris mora; dent tamen, oro, / unum ilium mihi fata diem, quo vellera Achivos / sic meritos quoque hunc videam virtute superbum / Aesoniden tantos flentem sine honore labores.'\n",
+                "number": "<Val. Fl. 6.733>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ut fera Nyctelii paulum per sacra resistunt, / mox rapuere deum iam iam quodcumque paratae / Thyiades, haut alio remeat Medea tumultu / atque inter Graiumque acies patriasque phalangas / semper inexpletis adgnoscit Iasona curis / armaque quique cava superest de casside vultum.\n",
+                "number": "<Val. Fl. 6.755>",
+                "sentiments": "(\"agitation\", \"sadness\", \"love\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "quem passus Iason / vota prius captasque deis accendere praedas / prominet atque oculos longe tenet, aurea si iam / pellis et oblatis clarescant atria villis.\n",
+                "number": "<Val. Fl. 7.28>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "quinquaginta Asiam (pudet heu) penetrarit Iason / exulibus?\n",
+                "number": "<Val. Fl. 7.43>",
+                "sentiments": "(\"shame\", \"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "i, precor, atque istum quo me frustratur amorem / vince, precor, patriis ut tandem evadere tectis / audeat atque meum casu defendere ab omni / Aesoniden: vis illa sacro, quo freta, veneno.\n",
+                "number": "<Val. Fl. 7.162>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "ante et Thessalicae Phasin petiere carinae / perque tot infelix frustra vada venit Iason, / quam patriae te movit amor.'\n",
+                "number": "<Val. Fl. 7.221>",
+                "sentiments": "(\"love\", \"sadness\", \"admiration\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "contra saevus amor, contra periturus Iason / urget et auditae crescunt in pectore voces.\n",
+                "number": "<Val. Fl. 7.308>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "hunc quoque, quicumque est, crudelis, Iasona nescis / morte perire tua, qui te nunc invocat unam, / qui rogat et nostro quem prima in litore vidi?\n",
+                "number": "<Val. Fl. 7.342>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "'ipse rogat certe meque ipse implorat Iason?\n",
+                "number": "<Val. Fl. 7.386>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "iam stabulis gregibusque pavor strepitusque sepulcris / inciderat; stupet ipsa gravi nox tardior umbra; / iamque tremens longe sequitur Venus; utque sub altas / pervenere trabes divaeque triformis in umbram, / hic subito ante oculos nondum speratus Iason / emicuit viditque prior conterrita virgo, / atque hinc se profugam volucris Thaumantias alis / sustulit, inde Venus dextrae dilapsa tenenti.\n",
+                "number": "<Val. Fl. 7.393>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Ergo ut erat vultu defixus uterque silenti / noxque suum peragebat iter, iam iam ora levare / Aesoniden farique cupit Medea priorem.\n",
+                "number": "<Val. Fl. 7.408>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Titania iamque / gramina Perseasque sinu depromere vires / coeperat hisque iterum compellat Iasona dictis: /\n",
+                "number": "<Val. Fl. 7.450>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "tum vero extremo percussa dolore / arripit Aesoniden dextra ac summissa profatur: /\n",
+                "number": "<Val. Fl. 7.476>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "protinus hospes ad haec (tacitis nam cantibus illum / flexerat et simili iamdudum adflarat amore) / 'tune' ait 'Aesoniden quicquam te velle relicta / credis et ulla pati sine te loca?\n",
+                "number": "<Val. Fl. 7.488>",
+                "sentiments": "(\"love\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Haec ubi dicta, tamen perstant defixus uterque, / et nunc ora levant audaci laeta iuventa, / ora simul totiens dulcis rapientia visus, / nunc deicit vultus aeger pudor, et mora dictis / redditur, ac rursus conterret Iasona virgo: /\n",
+                "number": "<Val. Fl. 7.512>",
+                "sentiments": "(\"love\", \"joy\", \"shame\", \"fear\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "exclamat stricto Aesonides stans frigidus ense.\n",
+                "number": "<Val. Fl. 7.530>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Et iam puniceo regem spes vana sub ortu / extulerat, quantis nox una diremerit undis / Aesoniden, liberne fretis iam vultus apertis / utque prius totum sileat mare.\n",
+                "number": "<Val. Fl. 7.540>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "non tulit ipse moras seseque immisit Iason; / diversos postquam ire videt, galeamque minantem / quassat et errantem dextra ciet obvius ignem.\n",
+                "number": "<Val. Fl. 7.577>",
+                "sentiments": "(\"agitation\", \"anger\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "inicit Aesonides dextram adque ardentia mittit / cornua, dein totis propendens viribus haeret.\n",
+                "number": "<Val. Fl. 7.586>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "respicit hinc socios immania vincula poscens / Aesonides, iamque ora premit trahiturque trahitque / obnixusque genu superat cogitque trementes / sub iuga aena toros.\n",
+                "number": "<Val. Fl. 7.592>",
+                "sentiments": "(\"agitation\", \"fear\", \"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "invadit totusque incumbit Iason / desuper atque suis detixum flatibus urget, / utque dedit vinclis validoque obstrinxit aratro, / suscitat ipse genu saevaque agit insuper hasta, / non secus a medio quam si telluris hiatu / terga recentis equi primumque invasit habenis / murmur et in summa Lapithes apparuit Ossa.\n",
+                "number": "<Val. Fl. 7.599>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "omnis ibi Aesoniden sterni putat, omnibus ira / talis erat.\n",
+                "number": "<Val. Fl. 7.637>",
+                "sentiments": "(\"anger\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Protinus in fluvium fumantibus evolat armis / Aesonides, qualis Getico de pulvere Mavors / intrat equis uritque gravem sudoribus Hebrum, / aut niger ex antris rutilique a fulminis aestu / cum furit et Siculo respirat in aequore Cyclops.\n",
+                "number": "<Val. Fl. 7.642>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "sed tu quoque cunctas, / Aesonide, dimitte moras atque effuge raptis / velleribus.\n",
+                "number": "<Val. Fl. 8.104>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "corripit optatum decus extremumque laborem / Aesonides, longosque sibi gestata per annos / Phrixeae monumenta fugae vix reddidit arbor / cum gemitu, tristesque super coiere tenebrae.\n",
+                "number": "<Val. Fl. 8.117>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "Albano fuit haec promissa tyranno, / non tibi; nil tecum miseri pepigere parentes, / Aesonide; non hoc Pelias evadere furto / te iubet aut ullas Colchis abducere natas.\n",
+                "number": "<Val. Fl. 8.153>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "cur tanta mihi non prodita pestis, / ut gener Aesonides nostra consideret aula / nec talem paterere fugam, commune fuisset / aut certe nunc omne nefas, iremus et ambae / in quascumque vias?\n",
+                "number": "<Val. Fl. 8.165>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "'vos' ait 'Aesonide, contenti vellere capto, / nec via quae superet nec quae fortuna videtis.\n",
+                "number": "<Val. Fl. 8.178>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "8"
+            },
+            {
+                "sentence": "sint age tanti, / Aesonide, quaecumque morae quam saeva subire / saxa iterum, quam Cyaneos perrumpere montes; / sat mihi: non totis Argo redit ecce corymbis.'\n",
+                "number": "<Val. Fl. 8.191>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "reddidit Aesonides:'et te, fidissime rector, / haud vani tetigere metus, nec me ire recuso / longius et cunctis redeuutem ostendere terris.'\n",
+                "number": "<Val. Fl. 8.197>",
+                "sentiments": "(\"admiration\", \"fear\", \"neutral\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "inde ubi sacrificas cum coniuge venit ad aras / Aesonides unaque adeunt pariterque precari / incipiunt, ignem Pollux undamque iugalem / praetulit, et dextrum pariter vertuntur in orbem.\n",
+                "number": "<Val. Fl. 8.243>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "ergo infausto sese occulit antro, / non aliud quam certa mori, seu carus Iason / seu frater Graia victus cecidisset ab hasta.\n",
+                "number": "<Val. Fl. 8.316>",
+                "sentiments": "(\"sadness\", \"love\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "atque iterum Aesonides, iterum defenditur arte, / qua solet?\n",
+                "number": "<Val. Fl. 8.354>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "noctes atque dies vastis mare fluetibus inter / perfurit, expediant donec Iunonia sese / consilia atque aliquem bello ferat anxia finem / At Minyae tanti reputantes ultima belli / urgent et precibus cuncti fremituque fatigant / Aesoniden.\n",
+                "number": "<Val. Fl. 8.383>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "haut illa sui tamen immemor umquam / nec subitis turbata minis prior occupat unum / Aesoniden longeque trahit, mox talibus infit: /\n",
+                "number": "<Val. Fl. 8.414>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "mene, optime quondam / Aesonide, me ferre preces et supplicis ora / fas erat?\n",
+                "number": "<Val. Fl. 8.444>",
+                "sentiments": "(\"shame\", \"sadness\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Hylas": {
+        "name": "Hylas",
+        "occurrences": [
+            {
+                "sentence": "Protinus Inachiis ultro Tirynthius Argis / advolat, Arcadio cuius flammata veneno / tela puer facilesque umeris gaudentibus arcus / gestat Hylas: velit ille quidem, sed dextera nondum / par oneri clavaeque capax.\n",
+                "number": "<Val. Fl. 1.107>",
+                "sentiments": "(\"admiration\", \"love\", \"joy\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "subita cur pulcher harundine crines / velat Hylas?\n",
+                "number": "<Val. Fl. 1.218>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "at diversa Sagen turbantem fallere nervo / tum primum puer ausus Hylas (spes maxima bellis / pulcher Hylas, si fata sinant, si prospera Iuno), / prostravitque virum celeri per pectora telo.\n",
+                "number": "<Val. Fl. 3.181>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "petit excelsas Tirynthius ornos; / haeret Hylas lateri passusque moratur iniquos.\n",
+                "number": "<Val. Fl. 3.484>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "'quem tibi coniugio tot dedignata dicavi / Nympha procos, en Haemonia puer adpulit alno, / clarus Hylas, saltusque tuos fontesque pererrat.\n",
+                "number": "<Val. Fl. 3.534>",
+                "sentiments": "(\"love\", \"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "credit Hylas praedaeque ferox ardore propinquae / insequitur; simul Alcides hortatibus urget / prospiciens; iamque ex oculis aufertur uterque, / cum puerum instantem quadripes fessaque minantem / tela manu procul ad nitidi spiracula fontis / ducit et intactas levis ipse superfugit undas.\n",
+                "number": "<Val. Fl. 3.548>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Iam pater umbrosis Tirynthius arcibus ornum / depulerat magnoque iugi stridore revulsam / terga super fulvi porrexerat horrida monstri / litora curva petens; alio nam calle reversum / credit Hylan captaque dapes auxisse ferina.\n",
+                "number": "<Val. Fl. 3.564>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "sed neque apud socios structasque in litore mensas / unanimum videt aeger Hylan nec longius acrem / intendens aciem.\n",
+                "number": "<Val. Fl. 3.569>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "rursus Hylan et rursus Hylan per longa reclamat / avia: responsant silvae et vaga certat imago.\n",
+                "number": "<Val. Fl. 3.595>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "At sociis immota fides austrisque secundis / certa: morae est nec parvus Hylas (quamquam omnibus aeque / grata rudimenta), Herculeo sub nomine pendent.\n",
+                "number": "<Val. Fl. 3.597>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "omnis adhuc vocat Alciden fugiente carina, / omnis Hylan, medio pereuntia nomina ponto.\n",
+                "number": "<Val. Fl. 3.723>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ille graves oculos et Hylan resonantia semper / ora ferens, ut nulla deum superare potestas, / procumbit.\n",
+                "number": "<Val. Fl. 4.18>",
+                "sentiments": "(\"sadness\", \"admiration\")",
+                "book_number": "4"
+            }
+        ]
+    },
+    "Pollux": {
+        "name": "Pollux",
+        "occurrences": [
+            {
+                "sentence": "unde haec tibi vulnera, Pollux?\n",
+                "number": "<Val. Fl. 1.220>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "gravis invenit Ochum / Phlias et trepido Pollux impingitur Hebro.\n",
+                "number": "<Val. Fl. 3.147>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "illam vix gemino maerens cum Castore Pollux / erigit haerentem compressaque colla trahentem.\n",
+                "number": "<Val. Fl. 3.328>",
+                "sentiments": "(\"sadness\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "non datur haec magni proles Iovis; at tibi Pollux / stirpe pares Castorque manent, at cetera divum / progenies, nec parva mihi fiducia gentis.\n",
+                "number": "<Val. Fl. 3.666>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "flet pius Aeacides, maerent Poeantia corda, / ingemit et dulci frater cum Castore Pollux.\n",
+                "number": "<Val. Fl. 3.721>",
+                "sentiments": "(\"sadness\", \"love\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "hospitis hic primum monitus rediere Dymantis, / et pavor et monstri subiit absentis imago, / atque oculos cuncti inter se tenuere silentes, / done sidereo Pollux interritus ore / 'te tamen, hac quicumque es' ait 'formidine, faxo / iam tua silva ferat, modo sint tibi sanguis et artus.'\n",
+                "number": "<Val. Fl. 4.187>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "Talia dicta dabat, cum protinus asper Iason / et simul Aeacidae simul et Calydonis alumni / Nelidesque Idasque prior quae maxima surgunt / nomina; sed nudo steterat iam pectore Pollux.\n",
+                "number": "<Val. Fl. 4.220>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "spumanti qualis in alto / Pliade capta ratis, trepidi quam sola magistri / cura tenet, rabidum ventis certantibus aequor / intemerata secat, Pollux sic providus ictus / servat et Oebalia dubium caput eripit arte.\n",
+                "number": "<Val. Fl. 4.267>",
+                "sentiments": "(\"fear\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "hos inter Pollux subit et trucis ultro / advolat ora viri: nec spes effecta, sed ambae / in pectus cecidere manus.\n",
+                "number": "<Val. Fl. 4.298>",
+                "sentiments": "(\"agitation\", \"anger\", \"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "sentit enim Pollux rationis egentem...\n",
+                "number": "<Val. Fl. 4.302>",
+                "sentiments": "(\"admiration\", \"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "labentem propulit heros / ac super insistens 'Pollux ego missus Amyclis / et love natus' ait; 'nomen mirantibus umbris / hoc referes: sic et memori noscere sepulchro.'\n",
+                "number": "<Val. Fl. 4.310>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "dumque ea dicta ferunt, tenues tamen ire cruores / siderea de fronte vident; nec sanguine Pollux / territus averso siccabat vulnera caestu.\n",
+                "number": "<Val. Fl. 4.328>",
+                "sentiments": "(\"fear\", \"sadness\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "fatur, et ostentans prolem Iovis 'hic tibi Pollux / en' ait, 'inviso solvit cui pectore poenas.'\n",
+                "number": "<Val. Fl. 4.755>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "inde ubi sacrificas cum coniuge venit ad aras / Aesonides unaque adeunt pariterque precari / incipiunt, ignem Pollux undamque iugalem / praetulit, et dextrum pariter vertuntur in orbem.\n",
+                "number": "<Val. Fl. 8.243>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Mars": {
+        "name": "Mars",
+        "occurrences": [
+            {
+                "sentence": "quem circum vellera Martem / aspicio?\n",
+                "number": "<Val. Fl. 1.223>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "femineis tantum illa furens ululatibus opstat, / obruat Idaeam quantum tuba Martia buxum, / fatur et haec:\n",
+                "number": "<Val. Fl. 1.318>",
+                "sentiments": "(\"agitation\", \"anger\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "non Marte nec armis / aut nati, precor, ille mei dignatus ut umquam / ense cadat; quae fida manus, quae cara suorum / diripiat laceretque senem nec membra sepulchro / contegat.\n",
+                "number": "<Val. Fl. 1.810>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "contra Veneris stat frigida semper / ara loco, meritas postquam dea coniugis iras / horruit et tacitae Martem tenuere catenae.\n",
+                "number": "<Val. Fl. 2.98>",
+                "sentiments": "(\"fear\", \"shame\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "adeelerat Pavor et Geticis Discordia demens / e stabulis atraeque genis pallentibus Irae / et Dolus et Rabies et Leti maior imago / visa truces exerta manus, ut prima vocatu / intonuit signumque dedit Mavortia coniunx.\n",
+                "number": "<Val. Fl. 2.204>",
+                "sentiments": "(\"fear\", \"anger\", \"agitation\", \"sadness\", \"disgust\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "haec ubi dicta, / baud secus Aesonides monitis accensus amaris, / quam bellator equus, longa quem frigida pace / terra iuvat, †brevis† in laevos piger angitur orbes, / frena tamen dominumque velit, si Martius aures / clamor et obliti rursus fragor impleat aeris.\n",
+                "number": "<Val. Fl. 2.384>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "vox omnes super una tubas, qua conus et enses, / qua trepidis auriga rotis nocturnaque muris / claustra cadunt; talesque metus non Martia cassis / Eumenidumque comae, non tristis ab aethere Gorgo / sparserit aut tantis aciem raptaverit umbris.\n",
+                "number": "<Val. Fl. 3.51>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Bistonas in medios ceu Martius exilit astris / currus, ubi ingentes animae clamorque tubaeque / sanguineae iuvere deum, non segnius ille / occupat arva furens; sequitur vis omnis Achivum.\n",
+                "number": "<Val. Fl. 3.81>",
+                "sentiments": "(\"agitation\", \"anger\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "adglomerant latera, et densis thoracibus horrens / stat manus, aegisono quam nec fera pectore virgo / dispulerit nec dextra Iovis Terrorque Pavorque, / Martis equi.\n",
+                "number": "<Val. Fl. 3.86>",
+                "sentiments": "(\"agitation\", \"fear\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "ipse super vultus taboque natantia terga / dux campi Martisque potens, ut caeca profundo / currit hiems, Zelyn et Bronten Abarimque relinquit / semineces: Glaucum sequitur Glaucumque ruentem / occupat et iugulo vulnus molitur aperto.\n",
+                "number": "<Val. Fl. 3.149>",
+                "sentiments": "(\"agitation\", \"anger\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "bellum ingens, atque ipse citis Gradivus habenis / fundit equos.\n",
+                "number": "<Val. Fl. 3.497>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "saltibus ut mediis tum demum laeta reducit / cerva gregem, tum gestit aper reboatque superbis / comminus ursa lupis, cum sese Martia tigris / abstulit aut curvo tacitus leo condidit antro.\n",
+                "number": "<Val. Fl. 3.632>",
+                "sentiments": "(\"joy\", \"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "respirant ambo paulumque reponunt / bracchia, ceu Lapithas aut Paeonas aequore in ipso / cum refovet fixaque silet Gradivus in hasta.\n",
+                "number": "<Val. Fl. 4.278>",
+                "sentiments": "(\"neutral\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "inclita Amazonidum magnoque exorta Gradivo / gens ibi; femineas nee tu nunc crede catervas, / sed qualis, sed quanta viris insultat Enyo / divaque Gorgonei gestatrix innuba monstri.\n",
+                "number": "<Val. Fl. 4.601>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "qualem Mavortia vidit Amazon / cumque suis comitem Alcides ut condidit armis, / talis ab aequorei consurgens aggere busti / emicuit; fulsere undae, sol magnus ut orbem / tolleret aut nubem quateret polus.\n",
+                "number": "<Val. Fl. 5.89>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "transit Halys longisque fluens anfractibus Iris / saevaque Thermodon medio sale murmura volvens, / Gradivo sacer et spoliis ditissimus amnis, / donat equos, donat votas cui virgo secures, / cum redit ingenti per Caspia claustra triumpho / Massageten Medumque trahens.\n",
+                "number": "<Val. Fl. 5.120>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "ipse autem comitum conversus ad ora novorum / 'vos mihi nunc pugnas' ait 'et victricia' ductor / 'Herculis arma mei vestrasque in litore Martis / interea memorate manus.'\n",
+                "number": "<Val. Fl. 5.128>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "at vellera Martis in umbra / ipse sui Phrixus monumentum insigne pericli / liquerat ardenti quercum complexa metallo.\n",
+                "number": "<Val. Fl. 5.228>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "datus et sociis utrimque cremandis / ille dies alterque dies, cum Marte remisso / debitus Aeaeis dux Thessalus adpulit oris.\n",
+                "number": "<Val. Fl. 5.275>",
+                "sentiments": "(\"sadness\", \"neutral\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "contra autem Aeetes 'non frustra magna superbo / dicta volant' ait, 'et vocem paria arma secuntur, / nec requies, quin Marte diem noctemque fatiget; / atque ubi Riphaea stupuerunt flumina bruma, / iam pavidi cum prole Getae, iam pervigil ilium / Medus et oppositis exspectat Hiberia claustris.\n",
+                "number": "<Val. Fl. 5.599>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "ingentes animo iam prospice campos, / atque hanc alipedi pulsantem corpora curru / Euryalen, quibus exsultet Mavortia turmis / et quantum elata valeat peltata securi, / cara mihi et veras inter non ultima natas.'\n",
+                "number": "<Val. Fl. 5.610>",
+                "sentiments": "(\"admiration\", \"joy\", \"love\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Ecce autem Geticis veniens Gradivus ab antris / ingentemque trahens arctoa per aequora nubem / aspicit Aeaea Minyas stupefactus in urbe / ambitumque senem promissaque vellera puppi / Thessalicae.\n",
+                "number": "<Val. Fl. 5.618>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "an Martia templa / intemeranda minus, tantum mihi lucus et agger / quod rudis et sola colimur si gentibus umbra?\n",
+                "number": "<Val. Fl. 5.640>",
+                "sentiments": "(\"sadness\", \"shame\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Non tulit haec animis, quin longa silentia Pallas / rumperet inridens strepitumque minasque Gradivi.\n",
+                "number": "<Val. Fl. 5.648>",
+                "sentiments": "(\"agitation\", \"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "quod sin ea Mavors / abnegat et solus nostris sudoribus obstat, / ibimus indecores frustraque tot aequora vectae?\n",
+                "number": "<Val. Fl. 5.667>",
+                "sentiments": "(\"anger\", \"agitation\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "coepelat ardens / hic iterum alternis Mavors insurgere dictis.\n",
+                "number": "<Val. Fl. 5.670>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "At vigil isdem ardet furiis Gradivus et acri / corde tumet nec quas acies, quae castra sequatur, / invenit; ire placet tandem praesensque tueri, / sternere si Minyas magnoque rependere luctu / regis pacta queat Graiamque absumere puppem.\n",
+                "number": "<Val. Fl. 6.1>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Mars saevus ab altis / 'hostis io' conclamat equis, 'agite ite, propinquat', / ac simul hinc Colchos, hinc fundit in aequora Persen.\n",
+                "number": "<Val. Fl. 6.28>",
+                "sentiments": "(\"agitation\", \"anger\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "verum ego nec numero memorem nec nomine cunctos / mile vel ora movens; neque enim plaga gentibus ulla / ditior: aeterno quamnquam Maeotia pubes / Marte cadat, pingui numquam tamen ubere defit, / quod geminas arctos magnumque quod impleat anguem.\n",
+                "number": "<Val. Fl. 6.36>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Datin Achaemeniae gravior de vulnere pugnae / misit in arma Daraps, acies quem Martia circum / Gangaridum, potaque Gerus quos efferat unda, / quique lacum cinxere Bycen.\n",
+                "number": "<Val. Fl. 6.65>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "maximus hos inter Stygia venit arte Coastes; / sollicitat nec Martis amor, sed fama Cytaeae / virginis et paribus spirans Medea venenis.\n",
+                "number": "<Val. Fl. 6.154>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "impulit hos contra Mavors pater et mala leti / Gaudia Tisiphoneque caput per nubila tollens / ad sonitum litui mediaque altissima pugna, / necdum clara quibus sese Fuga mentibus addat.\n",
+                "number": "<Val. Fl. 6.177>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Hinc animos acies auget, magnoque doloris / turbine Gesandrum Mavors rapit: ille morantes / increpat et stricto sic urget Iazygas ense: /\n",
+                "number": "<Val. Fl. 6.278>",
+                "sentiments": "(\"agitation\", \"anger\", \"sadness\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "mitte Asiae, mitte Argolicis mandata colonis, / ne trepident; numquam has hiemes, haec saxa relinquam, / Martis agros, ubi tam saevo duravimus amne / progeniem natosque rudes, ubi copia leti / tanta viris.\n",
+                "number": "<Val. Fl. 6.333>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "haec etenim Minyas ne iungere Marte peracto / monstra satis iubeat Cadmei dentibus hydri, / ante diem timet et varias circumspicit artes.\n",
+                "number": "<Val. Fl. 6.436>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "tantum effata magis campis intendere suadet, / dum datur, ardentesque viri percurrere pugnas; / at simul hanc dictis, ilium dea Marte secundo / impulit atque novas egit sub pectora vires.\n",
+                "number": "<Val. Fl. 6.599>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "tum iuvenem terris Parcae tenuere Cytaeis / ac subiti Mavortis amor.\n",
+                "number": "<Val. Fl. 6.693>",
+                "sentiments": "(\"sadness\", \"love\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ille super socias clementi turbine gentes / erigitur paulumque levi raptatus in aethra / iam tandem extremas pugnae defertur in oras, / forte ubi serus Hiber Issedoniaeque phalanges / Marte carent solisque iuvant clamoribus agmen.\n",
+                "number": "<Val. Fl. 6.747>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Martius ante urbem longis iacet horridus annis / campus et ardentes ac me quoque vomere presso, / me quoque cunctantes interdum agnoscere tauri.\n",
+                "number": "<Val. Fl. 7.62>",
+                "sentiments": "(\"sadness\", \"disgust\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "saevior ingenti Mavortis in arbore restat, / crede, labor, quem — tanta utinam fiducia nostri / sit mihi nocturnaeque Hecates — nostrique vigoris ' / dixerat, utque virum doceat, quae monstra supersint, / protinus immensis recubantem anfractibus anguem / turbat et Haemonii subito ducis obicit umbram.\n",
+                "number": "<Val. Fl. 7.520>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "dumque ea longe / explorare †quaeat†, contra venit Arcas Echion / dicta ferens, iam Circaeis Mavortis in agris / stare virum: daret aeripedes in proelia tauros.\n",
+                "number": "<Val. Fl. 7.543>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Ille velut campos Libyes ac pinguia Nili / fertilis arva secet, plena sic semina dextra / spargere gaudet agris oneratque novalia bello / Martius hic primum ter vomere fusus ab ipso / clangor et ex omni sonuertnt cornua sulco; / bellatrix tunc gleba quati pariterque creari / armarique phalanx totisque insurgere campis.\n",
+                "number": "<Val. Fl. 7.606>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Protinus in fluvium fumantibus evolat armis / Aesonides, qualis Getico de pulvere Mavors / intrat equis uritque gravem sudoribus Hebrum, / aut niger ex antris rutilique a fulminis aestu / cum furit et Siculo respirat in aequore Cyclops.\n",
+                "number": "<Val. Fl. 7.642>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "qualis sanguineo victor Gradivus ab Hebro / Idalium furto subit aut dilecta Cythera, / seu cum caelestes Alcidae invisere mensas / iam vacat et fessum Iunonia sustinet Hebe.\n",
+                "number": "<Val. Fl. 8.228>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Apollo": {
+        "name": "Apollo",
+        "occurrences": [
+            {
+                "sentence": "Minyas ambage ducemque / terrificat; sed enim contra Phoebeius Idmon, / non pallore viris, non ullo horrore comarum / terribilis, plenus fatis Phoeboque quieto, / cui genitor tribuit monitu praenoscere divum / omina, seu flammas seu lubrica comminus exta / seu plenum certis interroget aera pennis, / sic sociis Mopsoque canit:\n",
+                "number": "<Val. Fl. 1.227>",
+                "sentiments": "(\"fear\", \"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "'quantum augur Apollo / flammaque prima docet, praeduri plena laboris / cerno equidem, patiens sed quae ratis omnia vincet.\n",
+                "number": "<Val. Fl. 1.234>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Minyas simul optulit omnis / alma novo crispans pelagus Tithonia Phoebo.\n",
+                "number": "<Val. Fl. 1.310>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "hic vates Phoebique fides non vana parentis / Mopsus, puniceo cui circumfusa cothurno / palla imos ferit alba pedes vittataque fronte / cassis et in summo laurus Peneia cono.\n",
+                "number": "<Val. Fl. 1.383>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "sic ecce meus, sic orbe peracto / Liber et expertus terras remeavit Apollo.'\n",
+                "number": "<Val. Fl. 1.566>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "1"
+            },
+            {
+                "sentence": "Iamque sub Eoae dubios Atlantidis ignes / albet ager, motisque truces ab ovilibus ursi / tuta domosque petunt, raras et litus in altum / mittit aves, cum primus equis exegit anhelis / Phoebus Athon mediasque diem dispersit in undas.\n",
+                "number": "<Val. Fl. 2.72>",
+                "sentiments": "(\"admiration\", \"neutral\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "tunc etiam vates Phoebo dilecta Polyxo — / non patriam, non certa genus, sed maxima †taetae / Proteaque ambiguum Phariis se ‹fingit› ab antris / huc rexisse vias iunctis super aequora phocis; / saepe imis se condit aquis cunctataque paulum / surgit ut auditas referens in gurgite voces — / 'portum demus' ait, 'fatis haec, credite, puppis / advenit et levior Lemno deus aequore flexit / huc Minyas; Venus ipsa volens dat corpora iungi, / dum vires utero maternaque sufficit aetas.'\n",
+                "number": "<Val. Fl. 2.316>",
+                "sentiments": "(\"admiration\", \"love\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "neque enim tam lata videbam / pectora, Neptunus muros cum iungeret astris, / nec tales umeros pharetramque gerebat Apollo.'\n",
+                "number": "<Val. Fl. 2.490>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "ducit et ad fluvios ac vincula solvere monstrat / prima pedum glaucasque comis praetexere frondes / imperat, hinc alte Phoebi surgentis ad orbem / ferre manus totisque simul procumbere campis.\n",
+                "number": "<Val. Fl. 3.434>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Iam summas caeli Phoebus candentior arces / vicerat et longas medius revocaverat umbras: /\n",
+                "number": "<Val. Fl. 3.480>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "3"
+            },
+            {
+                "sentence": "hunc tibi vel posito venantem pectine Phoebum / crede dari.\n",
+                "number": "<Val. Fl. 3.540>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "3"
+            },
+            {
+                "sentence": "stagna vaga sic luce micant, ubi Cynthia caelo / prospicit aut medii transit rota candida Phoebi: /\n",
+                "number": "<Val. Fl. 3.557>",
+                "sentiments": "(\"admiration\",)",
+                "book_number": "3"
+            },
+            {
+                "sentence": "Iamque iter ad Teucros atque hospita moenia Troiae / flexerat Iliaci repetens promissa tyranni, / cum maesto Latona simul Dianaque vultu / ante Iovem stetit et supplex sic fatur Apollo: /\n",
+                "number": "<Val. Fl. 4.58>",
+                "sentiments": "(\"sadness\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "ille dearum / fletibus et magno Phoebi commotus honore / velocem roseis demittit nubibus Irim.\n",
+                "number": "<Val. Fl. 4.75>",
+                "sentiments": "(\"sadness\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "inde super terras et eoi cornua montis / emicuit traxitque diem candentibus undis, / et Minyas viso liquerunt flamina Phoebo.\n",
+                "number": "<Val. Fl. 4.96>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "non ego nunc, magno quod cretus Agenore Phineus, / aut memorem, mea quod vates insedit Apollo / pectora; praesentis potius miserescite fati.\n",
+                "number": "<Val. Fl. 4.443>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "tu Phoebi comes et nostro dilecte parenti?\n",
+                "number": "<Val. Fl. 4.467>",
+                "sentiments": "(\"love\", \"admiration\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "'arquipotens adverte, precor, nunc denique Apollo; / hoc, pater, hoc nobis refove caput, ulla laboris / si nostri te cura movet, qui cardine summo / vertitur atque omnis manibus nunc pendet ab unis.'\n",
+                "number": "<Val. Fl. 5.17>",
+                "sentiments": "(\"fear\", \"admiration\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Assyrios complexa sinus stat opima Sinope, / nympha prius blandosque Iovis quae luserat ignes / caelicolis immota procis: deceptus amatae / fraude deae nec solus Halys nec solus Apollo.\n",
+                "number": "<Val. Fl. 5.109>",
+                "sentiments": "(\"sadness\", \"deception\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Forte deum variis per noctem territa monstris / senserat ut pulsas tandem Medea tenebras, / rapta toris primi iubar ad placabile Phoebi / ibat et horrendas lustrantia flumina noctes.\n",
+                "number": "<Val. Fl. 5.329>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "'Phoebi genitoris ad aras / ventum' ait.\n",
+                "number": "<Val. Fl. 5.403>",
+                "sentiments": "(\"neutral\",)",
+                "book_number": "5"
+            },
+            {
+                "sentence": "sceptra tui toto Pelias sub lumine Phoebi / maxima sorte tenens totque ille gravantia clivos / oppida, tot vigili pulcherrima flumina cornu, / ille meum imperils urget caput, ille labores / dat varios, suus ut magnum rex spargit ab Argis / Alciden, Sthenelo ipse satus.\n",
+                "number": "<Val. Fl. 5.483>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "tunc adsuetus adest Phlegraeas reddere pugnas / Musarum chorus et citharae pulsator Apollo, / fertque gravem Phrygius circum cratera minister.\n",
+                "number": "<Val. Fl. 5.692>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "sensit diva dolos iam pridem sponte requirens / Colchida et invisi genus omne excindere Phoebi.\n",
+                "number": "<Val. Fl. 6.466>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "dictis fidens Cretheia proles / calcat et aeriam quamvis perfertur ad ornum, / cuius adhuc rutilam servabant bracchia pellem, / nubibus accensis similem aut cum veste recincta / labitur ardenti Thaumantias obvia Phoebo.\n",
+                "number": "<Val. Fl. 8.112>",
+                "sentiments": "(\"admiration\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Venus": {
+        "name": "Venus",
+        "occurrences": [
+            {
+                "sentence": "contra Veneris stat frigida semper / ara loco, meritas postquam dea coniugis iras / horruit et tacitae Martem tenuere catenae.\n",
+                "number": "<Val. Fl. 2.98>",
+                "sentiments": "(\"fear\", \"shame\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "bane superincendit Venus atque his vocibus implet: /\n",
+                "number": "<Val. Fl. 2.126>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Has inter medias Dryopes in imagine maestae / flet Venus et saevis ardens dea planctibus instat / primaque 'Sarmaticas utinam Fortuna dedisset / insedisse domos tristesque habitasse pruinas, / plaustra sequi, vel iam patriae vidisse per ignes / culmen agi stragemque deum; nam cetera belli / perpetimur.\n",
+                "number": "<Val. Fl. 2.174>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "ilicet arrectae mentes, evictaque matrum / corda sacer Veneris gemitus rapit: aequora cunctae / prospiciunt simulantque choros delubraque festa / fronde tegunt laetaeque viris venientibus adsunt.\n",
+                "number": "<Val. Fl. 2.186>",
+                "sentiments": "(\"love\", \"joy\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Ipsa Venus quassans undantem turbine pinum / adglomerat tenebras pugnaeque adcincta trementem / desilit in Lemnon; nimbis et luce fragosa / prosequitur polus et tonitru pater auget honoro.\n",
+                "number": "<Val. Fl. 2.196>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "Hic aliud Venus et multo magis ipsa tremendum / orsa nefas gemitus fingit vocesque cadentum / inrupitque domos et singultantia gestans / ora manu taboque sinus perfusa recenti / arrectasque comas 'meritos en prima revertor / ulta toros, premit ecce dies'.\n",
+                "number": "<Val. Fl. 2.209>",
+                "sentiments": "(\"anger\", \"fear\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "non illis obvia tela / ferre nec infestos derat furor improbus ignes, / ni Veneris saevas fregisset Mulciber iras.\n",
+                "number": "<Val. Fl. 2.313>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "tunc etiam vates Phoebo dilecta Polyxo — / non patriam, non certa genus, sed maxima †taetae / Proteaque ambiguum Phariis se ‹fingit› ab antris / huc rexisse vias iunctis super aequora phocis; / saepe imis se condit aquis cunctataque paulum / surgit ut auditas referens in gurgite voces — / 'portum demus' ait, 'fatis haec, credite, puppis / advenit et levior Lemno deus aequore flexit / huc Minyas; Venus ipsa volens dat corpora iungi, / dum vires utero maternaque sufficit aetas.'\n",
+                "number": "<Val. Fl. 2.316>",
+                "sentiments": "(\"admiration\", \"love\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "protinus ingentem procerum sub nomine taurum / deicit, insuetis et iam pia munera templis / reddit, et hac prima Veneris calet ara iuvenca.\n",
+                "number": "<Val. Fl. 2.329>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "iam medium Aesonides, iam se regina locavit, / post alii proceres; sacris dum vincitur extis / prima fames, circum pateris it Bacchus, et omnis / aula silet; dapibus coeptis mox tempora fallunt / noctis et in seras durant sermonibus umbras, / praecipueque ducis casus mirata requirit / Hypsipyle, quae fata trahant, quae regis agat vis / aut unde Haemoniae molem ratis: unius haeret / adloquio et blandos paulatim colligit ignes / iam non dura toris Veneri nec iniqua reversae, / et deus ipse moras spatiumque indulget amori.\n",
+                "number": "<Val. Fl. 2.346>",
+                "sentiments": "(\"love\", \"admiration\", \"joy\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "iam iuga Percotes Pariumque infame fragosis / exsuperant Pityamque vadis, transmissaque puppi / Lampsacus, Ogygii quam nec trieterica Bacchi / sacra neque arcanis Phrygius furor invehit antris, / sed suus in Venerem raptat deus.\n",
+                "number": "<Val. Fl. 2.621>",
+                "sentiments": "(\"love\", \"admiration\")",
+                "book_number": "2"
+            },
+            {
+                "sentence": "i, Furias Veneremque move; dabit impia poenas / virgo, nec Aeetae gemitus patiemur inultos.'\n",
+                "number": "<Val. Fl. 4.13>",
+                "sentiments": "(\"anger\", \"agitation\")",
+                "book_number": "4"
+            },
+            {
+                "sentence": "hinc Veneris thalamos semperque recentia sertis / tecta petit.\n",
+                "number": "<Val. Fl. 6.455>",
+                "sentiments": "(\"love\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "nec levior comitatur Aron, horrentia cuius / discolor arma super squalentesque aere lacertos / barbarica chlamys ardet acu tremefactaque vento / implet equum, qualis roseis it Lucifer alis, / quem Venus inlustri gaudet producere caelo.\n",
+                "number": "<Val. Fl. 6.524>",
+                "sentiments": "(\"admiration\", \"joy\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "quando ardor hebet leviorque pudori / mensque obnixa malo, tenues sublimis in auras / tollitur et fulvo Venerem vestigat Olympo.\n",
+                "number": "<Val. Fl. 7.156>",
+                "sentiments": "(\"love\", \"admiration\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Tum Venus aligerum mater sic fatur Amorum: /\n",
+                "number": "<Val. Fl. 7.170>",
+                "sentiments": "(\"love\",)",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Vix primas occulta Venus prospexerat arces, / virginis ecce novus mentem perstringere languor / incipit; ingeminant commotis questibus aestus.\n",
+                "number": "<Val. Fl. 7.193>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "ecce toro Venus improvisa resedit, / sicut erat mutata deam mentitaque pictis / vestibus et magica Circen Titanida virga.\n",
+                "number": "<Val. Fl. 7.211>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "tum cetera rumpit / occurritque Venus:\n",
+                "number": "<Val. Fl. 7.223>",
+                "sentiments": "(\"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "talia verba dabat conlapsaque flebat iniquae / in Veneris Medea sinus pestemque latentem / ossibus atque imi monstrabat pectoris ignem.\n",
+                "number": "<Val. Fl. 7.251>",
+                "sentiments": "(\"sadness\", \"love\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Occupat amplexu Venus et furialia figit / oscula permixtumque odiis inspirat amorem; / dumque illam variis maerentem vocibus ambit / inque alio sermone tenet, quin hoc' ait 'audi / atque attolle genas', lacrimisque haec infit obortis: /\n",
+                "number": "<Val. Fl. 7.255>",
+                "sentiments": "(\"love\", \"anger\", \"sadness\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "dat dextram blandisque pavens Venus oscula miscet / adloquiis iunctoque trahit per moenia passu.\n",
+                "number": "<Val. Fl. 7.374>",
+                "sentiments": "(\"love\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "iam stabulis gregibusque pavor strepitusque sepulcris / inciderat; stupet ipsa gravi nox tardior umbra; / iamque tremens longe sequitur Venus; utque sub altas / pervenere trabes divaeque triformis in umbram, / hic subito ante oculos nondum speratus Iason / emicuit viditque prior conterrita virgo, / atque hinc se profugam volucris Thaumantias alis / sustulit, inde Venus dextrae dilapsa tenenti.\n",
+                "number": "<Val. Fl. 7.393>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "adnuit unanimis Venus, hortatorque Cupido / suscitat adfixam maestis Aeetida curis; / ipsa suas illi croceo subtegmine vestes / induit, ipsa suam duplicem Cytherea coronam / donat et arsuras alia cum virgine gemmas.\n",
+                "number": "<Val. Fl. 8.232>",
+                "sentiments": "(\"love\", \"joy\", \"admiration\")",
+                "book_number": "8"
+            }
+        ]
+    },
+    "Medea": {
+        "name": "Medea",
+        "occurrences": [
+            {
+                "sentence": "praeterea infernae quae nunc sacrata Dianae / fert castos Medea choros quemcumque procorum / pacta petat maneat regnis neu virgo paternis.'\n",
+                "number": "<Val. Fl. 5.238>",
+                "sentiments": "(\"sadness\", \"fear\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "ergo omnes prohibere minas praedictaque Phrixi / invigilat, plena necdum Medea iuventa / adnuitur thalamis Albani virgo tyranni.\n",
+                "number": "<Val. Fl. 5.256>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Forte deum variis per noctem territa monstris / senserat ut pulsas tandem Medea tenebras, / rapta toris primi iubar ad placabile Phoebi / ibat et horrendas lustrantia flumina noctes.\n",
+                "number": "<Val. Fl. 5.329>",
+                "sentiments": "(\"fear\", \"agitation\")",
+                "book_number": "5"
+            },
+            {
+                "sentence": "Miserat ardentes, mox ipse secutus, Alanos / Heniochosque truces iam pridem infensus Anausis, / pacta quod Albano coniunx Medea tyranno, / nescius heu, quanti thalamos ascendere monstri / arserit atque urbes maneat qui terror Achaeas.\n",
+                "number": "<Val. Fl. 6.42>",
+                "sentiments": "(\"anger\", \"agitation\", \"fear\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "maximus hos inter Stygia venit arte Coastes; / sollicitat nec Martis amor, sed fama Cytaeae / virginis et paribus spirans Medea venenis.\n",
+                "number": "<Val. Fl. 6.154>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ille autem telo moribundus adacto / 'ad soceros pactaeque sinus en coniugis' inquit, / 'Styre, fugis, vulnus referens, quod carmine nullo / sustineat nullisque levet Medea venenis.'\n",
+                "number": "<Val. Fl. 6.272>",
+                "sentiments": "(\"sadness\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "sola animo Medea subit, mens omnis in una / virgine, nocturnis qua nulla potentior aris.\n",
+                "number": "<Val. Fl. 6.439>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "Ecce autem muris residens Medea paternis / singula dum magni lustrat certamina belli / atque hos ipsa procul densa in caligine reges / agnoscit quaeritque alios Iunone magistra, / conspicit Aesonium longe caput, ac simul acres / huc oculos sensusque refert animumque faventem, / nunc quo se raperet, nunc quo diversus abiret, / ante videns, quotque unus equos, quot funderet arma, / errantesque viros quam densis sisteret hastis.\n",
+                "number": "<Val. Fl. 6.575>",
+                "sentiments": "(\"admiration\", \"agitation\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ac velut ante comas ac summa cacumina silvae / lenibus adludit flabris levis auster, at illum / protinus immanem miserae sensere carinae, / talis ad extremos agitur Medea furores.\n",
+                "number": "<Val. Fl. 6.664>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "ut fera Nyctelii paulum per sacra resistunt, / mox rapuere deum iam iam quodcumque paratae / Thyiades, haut alio remeat Medea tumultu / atque inter Graiumque acies patriasque phalangas / semper inexpletis adgnoscit Iasona curis / armaque quique cava superest de casside vultum.\n",
+                "number": "<Val. Fl. 6.755>",
+                "sentiments": "(\"agitation\", \"sadness\", \"love\")",
+                "book_number": "6"
+            },
+            {
+                "sentence": "talia verba dabat conlapsaque flebat iniquae / in Veneris Medea sinus pestemque latentem / ossibus atque imi monstrabat pectoris ignem.\n",
+                "number": "<Val. Fl. 7.251>",
+                "sentiments": "(\"sadness\", \"love\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "haud aliter caecae per moenia deficit urbis / incedens horretque domos Medea silentes.\n",
+                "number": "<Val. Fl. 7.381>",
+                "sentiments": "(\"fear\", \"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "Ergo ut erat vultu defixus uterque silenti / noxque suum peragebat iter, iam iam ora levare / Aesoniden farique cupit Medea priorem.\n",
+                "number": "<Val. Fl. 7.408>",
+                "sentiments": "(\"love\", \"agitation\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "ille virum atque ipsam tunc te, Medea, recusans / concutit et tota nitentem carminis ira / portat iners; tandem gravius mugire recedens / incipit et fesso victus descendere cornu.\n",
+                "number": "<Val. Fl. 7.588>",
+                "sentiments": "(\"anger\", \"agitation\", \"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "tum vero amens discrimine tanto, / quam modo Tartareo galeamn Medea veneno / in medios torsit; conversae protinus hastae.\n",
+                "number": "<Val. Fl. 7.630>",
+                "sentiments": "(\"agitation\", \"fear\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "qualis ubi attonitos maestae Phrygas annua Matris / ira vel exsectos lacerat Bellona comatos, / haud secus accensas subito Medea cohortes / implicat et miseros agit in sua proelia fratres: /\n",
+                "number": "<Val. Fl. 7.633>",
+                "sentiments": "(\"anger\", \"agitation\", \"sadness\")",
+                "book_number": "7"
+            },
+            {
+                "sentence": "ipsa caput cari postquam Medea draconis / vidit humi, fusis circum proiecta lacertis / seque suumque simul flevit crudelis aluminum: /\n",
+                "number": "<Val. Fl. 8.92>",
+                "sentiments": "(\"sadness\", \"love\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "inc subitis †inflexit† frater in armis, / urbs etiam mox tota colt, volat ipse senectae / immemor Aeetes, complentur litora bello / nequiquam; fugit immissis nam puppis habenis / Mater adhuc ambas tendebat in aequora palmas / et soror atque omnes aliae matresque nurusque / Colchides aequalesque tibi, Medea, puellae.\n",
+                "number": "<Val. Fl. 8.136>",
+                "sentiments": "(\"agitation\", \"sadness\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "Puppe procul summa vigilis post terga magistri / haeserat auratae genibus Medea Minervae; / atque ibi deiecta residens in lumina palla / flebat adhuc, quamquam Haemoniis cum regibus iret, / sola tamen nec coniugii secura futuri.\n",
+                "number": "<Val. Fl. 8.202>",
+                "sentiments": "(\"sadness\", \"fear\", \"love\")",
+                "book_number": "8"
+            },
+            {
+                "sentence": "at tibi quae scelerum facies, Medea, tuorum?\n",
+                "number": "<Val. Fl. 8.313>",
+                "sentiments": "(\"disgust\", \"agitation\")",
+                "book_number": "8"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+Iason: 81
+Iuppiter: 79
+Mars: 44
+Hercules: 41
+Iuno: 35
+Apollo: 25
+Venus: 24
+Pelias: 21
+Aeetes: 21
+Medea: 20
+Pollux: 14
+Hylas: 12
